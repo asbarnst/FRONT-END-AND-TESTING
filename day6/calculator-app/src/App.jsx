@@ -1,4 +1,4 @@
-﻿import { useEffect, useState } from "react";
+import { useEffect, useState, useCallback } from "react";
 import "./App.css";
 const buttons = [
   { label: "C", action: "clear", type: "function" },
@@ -23,39 +23,33 @@ const buttons = [
   { label: "=", action: "calculate", type: "equal" },
 ];
 const operators = ["+", "-", "*", "/", "."];
+
+const evaluateExpression = (expression) => {
+  const sanitized = expression.replace(/\s+/g, "");
+  if (!sanitized) {
+    throw new Error("Empty expression");
+  }
+
+  if (/[^0-9+\-*/().]/.test(sanitized)) {
+    throw new Error("Invalid characters");
+  }
+
+  const result = Function(`"use strict"; return (${sanitized})`)();
+  if (typeof result !== "number" || !Number.isFinite(result)) {
+    throw new Error("Math error");
+  }
+
+  return Number.isInteger(result)
+    ? result.toString()
+    : result.toFixed(8).replace(/\.0+$|(?<=\d)0+$/, "");
+};
+
 function App() {
   const [input, setInput] = useState("");
   const [error, setError] = useState("");
   const [history, setHistory] = useState([]);
-  useEffect(() => {
-    const handleKeyDown = (event) => {
-      if (event.key === "Enter") {
-        event.preventDefault();
-        calculate();
-        return;
-      }
-      if (event.key === "Backspace") {
-        event.preventDefault();
-        deleteLast();
-        return;
-      }
-      if (event.key === "Escape") {
-        event.preventDefault();
-        clear();
-        return;
-      }
 
-      if (/^[0-9]$/.test(event.key) || operators.includes(event.key) || event.key === "(" || event.key === ")") {
-        event.preventDefault();
-        appendValue(event.key);
-      }
-    };
-
-    window.addEventListener("keydown", handleKeyDown);
-    return () => window.removeEventListener("keydown", handleKeyDown);
-  }, [input]);
-
-  const appendValue = (value) => {
+  const appendValue = useCallback((value) => {
     if (input === "Error") {
       setInput(value);
       setError("");
@@ -83,29 +77,9 @@ function App() {
 
     setInput((prev) => prev + value);
     setError("");
-  };
+  }, [input]);
 
-  const evaluateExpression = (expression) => {
-    const sanitized = expression.replace(/\s+/g, "");
-    if (!sanitized) {
-      throw new Error("Empty expression");
-    }
-
-    if (/[^0-9+\-*/().]/.test(sanitized)) {
-      throw new Error("Invalid characters");
-    }
-
-    const result = Function(`"use strict"; return (${sanitized})`)();
-    if (typeof result !== "number" || !Number.isFinite(result)) {
-      throw new Error("Math error");
-    }
-
-    return Number.isInteger(result)
-      ? result.toString()
-      : result.toFixed(8).replace(/\.0+$|(?<=\d)0+$/, "");
-  };
-
-  const calculate = () => {
+  const calculate = useCallback(() => {
     try {
       const expression = input;
       const result = evaluateExpression(expression);
@@ -116,17 +90,45 @@ function App() {
       setInput("Error");
       setError("Invalid expression. Use numbers and + - * / only.");
     }
-  };
+  }, [input]);
 
-  const deleteLast = () => {
+  const deleteLast = useCallback(() => {
     setInput((prev) => (prev === "Error" ? "" : prev.slice(0, -1)));
     setError("");
-  };
+  }, []);
 
-  const clear = () => {
+  const clear = useCallback(() => {
     setInput("");
     setError("");
-  };
+  }, []);
+
+  useEffect(() => {
+    const handleKeyDown = (event) => {
+      if (event.key === "Enter") {
+        event.preventDefault();
+        calculate();
+        return;
+      }
+      if (event.key === "Backspace") {
+        event.preventDefault();
+        deleteLast();
+        return;
+      }
+      if (event.key === "Escape") {
+        event.preventDefault();
+        clear();
+        return;
+      }
+
+      if (/^[0-9]$/.test(event.key) || operators.includes(event.key) || event.key === "(" || event.key === ")") {
+        event.preventDefault();
+        appendValue(event.key);
+      }
+    };
+
+    window.addEventListener("keydown", handleKeyDown);
+    return () => window.removeEventListener("keydown", handleKeyDown);
+  }, [appendValue, calculate, clear, deleteLast]);
 
   const handleButton = (action) => {
     if (action === "clear") {
