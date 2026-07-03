@@ -1,0 +1,118 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial;
+}
+html{
+    scroll-behavior:smooth;
+}
+header{
+    height:80px;
+    background:black;
+    color:white;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:20px 60px;
+}
+.logo{
+    font-size:30px;
+    font-weight:bold;
+}
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:20px;
+    font-size:18px;
+}
+nav a:hover{
+color:pink;
+}
+.hero{
+height: 520px;
+background-image:url("poster.png");
+background-size:cover;
+background-position:center;
+display:flex;
+justify-content:center;
+align-items:center;
+text-align:center;
+color:white;
+}
+.hero-text{
+border:10px inset gray;
+border-radius:20px;
+width:600px;
+height: 170px;
+}
+.hero h1{
+font-size:55px;
+color:black;
+}
+.hero p{
+font-size:22px;
+color:black;
+margin: 50px;;
+hight:100px;
+
+}
+.btn{
+padding:18px 45px;
+border:none;
+border-radius:15px;
+font-size:20px;
+background:#ff6b8a;
+cursor:pointer;
+transition:.3s;
+}
+.btn:hover{
+transform:scale(1.1);
+box-shadow:0 0 20px pink;
+}
+.about{
+padding:60px;
+text-align:center;
+}
+.about p{
+font-size:20px;
+margin:20px;
+}
+.cards{
+display:flex;
+justify-content:center;
+gap:30px;
+margin-top:40px;
+}
+.cards div{
+background:#eee;
+padding:30px;
+border-radius:15px;
+}
+#courses{
+padding:60px;
+text-align:center;
+}
+.course-box{
+display:flex;
+justify-content:center;
+gap:30px;
+margin-top:30px;
+}
+.course-box div{
+background:white;
+box-shadow:0 0 15px gray;
+padding:40px;
+border-radius:15px;
+font-size:22px;
+}
+#contact{
+border:5px inset gray;
+padding:100px;
+text-align:center;
+background:#eee;
+width: 50%;
+margin: 0 auto;
+border-radius: 30px;
+padding-top: 100px;
+}

@@ -1,0 +1,174 @@
+﻿* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background: linear-gradient(135deg, #1d2671, #c33764);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.calculator {
+  width: min(380px, 100%);
+  padding: 28px;
+  border-radius: 28px;
+  background: rgba(255, 255, 255, 0.14);
+  backdrop-filter: blur(18px);
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+}
+
+.calculator h2 {
+  text-align: center;
+  color: #fff;
+  margin-bottom: 22px;
+  letter-spacing: 1px;
+  font-size: 26px;
+}
+
+.display-wrapper {
+  position: relative;
+  margin-bottom: 16px;
+}
+
+.display {
+  width: 100%;
+  height: 70px;
+  border: none;
+  outline: none;
+  border-radius: 18px;
+  padding: 16px;
+  font-size: 32px;
+  text-align: right;
+  background: rgba(255, 255, 255, 0.16);
+  color: #fff;
+  box-shadow: inset 0 0 12px rgba(0, 0, 0, 0.28);
+}
+
+.display::placeholder {
+  color: #ddd;
+}
+
+.error-message {
+  margin-top: 8px;
+  font-size: 0.92rem;
+  color: #ffb3b3;
+  text-align: right;
+}
+
+.buttons {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.button {
+  height: 65px;
+  border: none;
+  border-radius: 18px;
+  font-size: 20px;
+  font-weight: 700;
+  cursor: pointer;
+  color: white;
+  background: rgba(255, 255, 255, 0.14);
+  transition: transform 0.2s ease, background 0.2s ease;
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.22);
+}
+
+.button:hover {
+  transform: translateY(-3px);
+  background: rgba(255, 255, 255, 0.28);
+}
+
+.button:active {
+  transform: scale(0.96);
+}
+
+.button.function {
+  background: #ff5c64;
+}
+
+.button.function:hover {
+  background: #ff404f;
+}
+
+.button.operator {
+  background: #ff9f1a;
+}
+
+.button.operator:hover {
+  background: #ff8a00;
+}
+
+.button.equal {
+  background: #00d376;
+  grid-column: span 2;
+}
+
+.button.equal:hover {
+  background: #00b564;
+}
+
+.history {
+  margin-top: 22px;
+  padding: 16px;
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.11);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+.history h3 {
+  margin-bottom: 12px;
+  color: #fff;
+  font-size: 18px;
+}
+
+.history ul {
+  list-style: none;
+  display: grid;
+  gap: 10px;
+}
+
+.history li {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  font-size: 0.95rem;
+  color: #f6f3ff;
+}
+
+.history li span {
+  opacity: 0.85;
+}
+
+.history li strong {
+  color: #fff;
+}
+
+@media (max-width: 450px) {
+  .calculator {
+    padding: 20px;
+  }
+
+  .button {
+    height: 60px;
+    font-size: 18px;
+  }
+
+  .display {
+    height: 64px;
+    font-size: 28px;
+  }
+}

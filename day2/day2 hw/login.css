@@ -1,0 +1,61 @@
+body {
+    background-color: #26052e;
+    font-family: Arial, sans-serif;
+}
+
+
+/* Heading box */
+.head {
+    width: 80%;
+    height: 80px;
+    background-color: #3d0b4d;
+    color: white;
+    margin: 20px auto;
+    text-align: center;
+    padding-top: 10px;
+    border-right: 10px solid #304587;
+    border-bottom: 10px solid #1e4ed8;
+    box-shadow: 0px 5px 15px black;
+}
+
+
+.o {
+    width: 350px;
+    background-color: #1e00ff;
+    margin: 60px auto;
+    padding: 30px;
+    border-radius: 15px;
+    border: 2px solid black;
+    box-shadow: 0px 5px 20px black;
+}
+
+
+label {
+    color: white;
+    font-size: 18px;
+}
+
+
+input[type="text"],
+input[type="password"] {
+    width: 200px;
+    height: 25px;
+    border-radius: 5px;
+    border: none;
+}
+
+
+
+button {
+    width: 90px;
+    height: 30px;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+button:hover {
+    background-color: #ddd;
+}

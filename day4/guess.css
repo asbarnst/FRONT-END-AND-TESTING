@@ -1,0 +1,36 @@
+body{
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:linear-gradient(135deg,#667eea,#764ba2);
+    font-family:Arial;
+}
+.box{
+    background:white;
+    width:350px;
+    padding:30px;
+    text-align:center;
+    border-radius:15px;
+    box-shadow:0 0 20px black;
+}
+input{
+    width:80%;
+    padding:10px;
+    margin:15px;
+    font-size:18px;
+}
+button{
+    padding:10px 25px;
+    background:#667eea;
+    color:white;
+    border:none;
+    border-radius:8px;
+    cursor:pointer;
+}
+button:hover{
+    background:#333;
+}
+#result{
+    margin-top:20px;
+}
