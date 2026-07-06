@@ -9,14 +9,15 @@
 
 .product-card:hover {
   transform: translateY(-5px);
-  box-shadow: var(--shadow-lg);
+
+  
   border-color: var(--accent-primary);
 }
 
 .product-image-container {
   position: relative;
   width: 100%;
-  padding-top: 100%; /* 1:1 Aspect Ratio */
+  padding-top: 100%;
   overflow: hidden;
   background-color: var(--bg-secondary);
 }

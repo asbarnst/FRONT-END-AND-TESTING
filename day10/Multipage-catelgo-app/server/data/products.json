@@ -1,0 +1,4740 @@
+[
+  {
+    "id": "prod-1",
+    "name": "Titan Pro Subwoofer",
+    "price": 335.24,
+    "description": "The Titan Pro Subwoofer is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "audio",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=600&q=80",
+    "rating": 5,
+    "reviewsCount": 23,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 30 Hours",
+      "Drivers": "Dual Balanced Armature",
+      "Bluetooth": "Bluetooth 5.3",
+      "Weight": "320g"
+    },
+    "reviews": [
+      {
+        "id": "rev-1-1",
+        "user": "Bjarne S.",
+        "rating": 4,
+        "comment": "Perfect addition to my hardware catalog collection. Seamless REST synchronization.",
+        "date": "2026-06-10"
+      },
+      {
+        "id": "rev-1-2",
+        "user": "Ada L.",
+        "rating": 4,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-03"
+      }
+    ]
+  },
+  {
+    "id": "prod-2",
+    "name": "Luna Ultra Smart Doorlock",
+    "price": 165.41,
+    "description": "The Luna Ultra Smart Doorlock is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.3,
+    "reviewsCount": 28,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Connectivity": "Wi-Fi 2.4GHz & 5GHz",
+      "Compatibility": "Alexa, Google Assistant, Apple HomeKit",
+      "Weight": "220g"
+    },
+    "reviews": [
+      {
+        "id": "rev-2-1",
+        "user": "Margaret H.",
+        "rating": 5,
+        "comment": "Very reliable. I have been using this daily for weeks now with zero issues.",
+        "date": "2026-06-07"
+      }
+    ]
+  },
+  {
+    "id": "prod-3",
+    "name": "Stellar Phantom Smart Doorlock",
+    "price": 80.35,
+    "description": "The Stellar Phantom Smart Doorlock is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.9,
+    "reviewsCount": 173,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Power Source": "Hardwired 12V",
+      "Connectivity": "Thread Mesh System",
+      "Compatibility": "Alexa, Google Assistant, Apple HomeKit",
+      "Weight": "450g"
+    },
+    "reviews": [
+      {
+        "id": "rev-3-1",
+        "user": "Grace H.",
+        "rating": 5,
+        "comment": "Decent performance but setup was slightly complicated. Still highly recommend.",
+        "date": "2026-06-24"
+      }
+    ]
+  },
+  {
+    "id": "prod-4",
+    "name": "Aero Phantom Atmospheric Light",
+    "price": 204.35,
+    "description": "The Aero Phantom Atmospheric Light is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.4,
+    "reviewsCount": 111,
+    "inStock": true,
+    "featured": true,
+    "specs": {
+      "Power Source": "USB-C DC input",
+      "Connectivity": "Thread Mesh System",
+      "Compatibility": "Matter Certified Hubs",
+      "Weight": "450g"
+    },
+    "reviews": [
+      {
+        "id": "rev-4-1",
+        "user": "Linus T.",
+        "rating": 5,
+        "comment": "Very reliable. I have been using this daily for weeks now with zero issues.",
+        "date": "2026-06-26"
+      }
+    ]
+  },
+  {
+    "id": "prod-5",
+    "name": "Zenith Classic Ergonomic Mouse",
+    "price": 33.19,
+    "description": "The Zenith Classic Ergonomic Mouse is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.8,
+    "reviewsCount": 171,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Connectivity": "USB-C, Bluetooth & 2.4GHz",
+      "Weight": "720g",
+      "Interface": "Bluetooth Multi-Device",
+      "Material": "Eco-friendly Bamboo"
+    },
+    "reviews": [
+      {
+        "id": "rev-5-1",
+        "user": "Steve J.",
+        "rating": 5,
+        "comment": "Solid entry-level device. Offers everything you need at a budget-friendly price.",
+        "date": "2026-06-13"
+      },
+      {
+        "id": "rev-5-2",
+        "user": "Claude S.",
+        "rating": 4,
+        "comment": "Decent performance but setup was slightly complicated. Still highly recommend.",
+        "date": "2026-06-19"
+      }
+    ]
+  },
+  {
+    "id": "prod-6",
+    "name": "Titan Carbon Home Controller",
+    "price": 44.85,
+    "description": "The Titan Carbon Home Controller is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1565814636199-ae8133055c1c?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.5,
+    "reviewsCount": 280,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Power Source": "AC Wall Adapter",
+      "Connectivity": "Thread Mesh System",
+      "Compatibility": "Matter Certified Hubs",
+      "Weight": "450g"
+    },
+    "reviews": [
+      {
+        "id": "rev-6-1",
+        "user": "Guido R.",
+        "rating": 5,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-09"
+      },
+      {
+        "id": "rev-6-2",
+        "user": "Ken T.",
+        "rating": 4,
+        "comment": "Excellent response times and integration with my other developer setups.",
+        "date": "2026-06-25"
+      }
+    ]
+  },
+  {
+    "id": "prod-7",
+    "name": "Luna Titanium Smartwatch",
+    "price": 256.51,
+    "description": "The Luna Titanium Smartwatch is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.5,
+    "reviewsCount": 101,
+    "inStock": true,
+    "featured": true,
+    "specs": {
+      "Battery Life": "Up to 10 Days",
+      "Display": "1.28\" OLED",
+      "Water Resistance": "10 ATM (100m)",
+      "Material": "Anodized Aluminum"
+    },
+    "reviews": [
+      {
+        "id": "rev-7-1",
+        "user": "Alan T.",
+        "rating": 4,
+        "comment": "A bit smaller than expected, but features are outstanding.",
+        "date": "2026-06-22"
+      },
+      {
+        "id": "rev-7-2",
+        "user": "Margaret H.",
+        "rating": 4,
+        "comment": "Absolute game changer! Extremely high build quality and sleek packaging.",
+        "date": "2026-06-08"
+      }
+    ]
+  },
+  {
+    "id": "prod-8",
+    "name": "Titan Max Fitness Tracker",
+    "price": 266.19,
+    "description": "The Titan Max Fitness Tracker is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.1,
+    "reviewsCount": 224,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 24 Hours",
+      "Display": "1.43\" Always-On AMOLED",
+      "Water Resistance": "3 ATM",
+      "Material": "Anodized Aluminum"
+    },
+    "reviews": [
+      {
+        "id": "rev-8-1",
+        "user": "Bill G.",
+        "rating": 4,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-14"
+      }
+    ]
+  },
+  {
+    "id": "prod-9",
+    "name": "Aether Titanium Fitness Tracker",
+    "price": 247.57,
+    "description": "The Aether Titanium Fitness Tracker is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1539874754764-5a96559165b0?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.7,
+    "reviewsCount": 82,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Display": "No Screen (App Only)",
+      "Water Resistance": "IP68 Waterproof",
+      "Sensors": "ECG, Blood Oxygen, Accelerometer, Gyroscope",
+      "Material": "Titanium Alloy"
+    },
+    "reviews": [
+      {
+        "id": "rev-9-1",
+        "user": "Claude S.",
+        "rating": 5,
+        "comment": "Perfect addition to my hardware catalog collection. Seamless REST synchronization.",
+        "date": "2026-06-03"
+      },
+      {
+        "id": "rev-9-2",
+        "user": "Dennis R.",
+        "rating": 5,
+        "comment": "Solid entry-level device. Offers everything you need at a budget-friendly price.",
+        "date": "2026-06-01"
+      }
+    ]
+  },
+  {
+    "id": "prod-10",
+    "name": "Vortex Pro Smart Doorlock",
+    "price": 199.88,
+    "description": "The Vortex Pro Smart Doorlock is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1557862921-37829c790f19?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.8,
+    "reviewsCount": 129,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Power Source": "Rechargeable Lithium Battery",
+      "Connectivity": "Thread Mesh System",
+      "Compatibility": "Matter Certified Hubs",
+      "Weight": "180g"
+    },
+    "reviews": [
+      {
+        "id": "rev-10-1",
+        "user": "Bjarne S.",
+        "rating": 4,
+        "comment": "Solid entry-level device. Offers everything you need at a budget-friendly price.",
+        "date": "2026-06-05"
+      },
+      {
+        "id": "rev-10-2",
+        "user": "Bjarne S.",
+        "rating": 4,
+        "comment": "Absolute game changer! Extremely high build quality and sleek packaging.",
+        "date": "2026-06-15"
+      }
+    ]
+  },
+  {
+    "id": "prod-11",
+    "name": "Spectre Lite Mechanical Keyboard",
+    "price": 131.63,
+    "description": "The Spectre Lite Mechanical Keyboard is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.3,
+    "reviewsCount": 168,
+    "inStock": true,
+    "featured": true,
+    "specs": {
+      "Connectivity": "USB-C 90W Pass-through",
+      "Interface": "Hot-swappable MX Switches"
+    },
+    "reviews": [
+      {
+        "id": "rev-11-1",
+        "user": "Steve J.",
+        "rating": 5,
+        "comment": "Solid entry-level device. Offers everything you need at a budget-friendly price.",
+        "date": "2026-06-19"
+      },
+      {
+        "id": "rev-11-2",
+        "user": "Bjarne S.",
+        "rating": 5,
+        "comment": "Decent performance but setup was slightly complicated. Still highly recommend.",
+        "date": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "id": "prod-12",
+    "name": "Matrix Lite Sensors Pack",
+    "price": 20.87,
+    "description": "The Matrix Lite Sensors Pack is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.7,
+    "reviewsCount": 196,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Power Source": "Hardwired 12V",
+      "Connectivity": "Thread Mesh System",
+      "Compatibility": "Google Home & Alexa",
+      "Weight": "220g"
+    },
+    "reviews": [
+      {
+        "id": "rev-12-1",
+        "user": "Bjarne S.",
+        "rating": 4,
+        "comment": "Solid entry-level device. Offers everything you need at a budget-friendly price.",
+        "date": "2026-06-10"
+      }
+    ]
+  },
+  {
+    "id": "prod-13",
+    "name": "Sol Active Sensors Pack",
+    "price": 234.15,
+    "description": "The Sol Active Sensors Pack is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.5,
+    "reviewsCount": 70,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Power Source": "Rechargeable Lithium Battery",
+      "Connectivity": "Thread Mesh System",
+      "Compatibility": "Standalone App Control",
+      "Weight": "90g"
+    },
+    "reviews": [
+      {
+        "id": "rev-13-1",
+        "user": "James G.",
+        "rating": 5,
+        "comment": "Solid entry-level device. Offers everything you need at a budget-friendly price.",
+        "date": "2026-06-01"
+      }
+    ]
+  },
+  {
+    "id": "prod-14",
+    "name": "Sol Prime Laptop Dock",
+    "price": 373.13,
+    "description": "The Sol Prime Laptop Dock is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.2,
+    "reviewsCount": 68,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Connectivity": "Dual HDMI & DisplayPort",
+      "Weight": "120g",
+      "Interface": "Hot-swappable MX Switches",
+      "Material": "Eco-friendly Bamboo"
+    },
+    "reviews": [
+      {
+        "id": "rev-14-1",
+        "user": "Steve J.",
+        "rating": 5,
+        "comment": "Perfect addition to my hardware catalog collection. Seamless REST synchronization.",
+        "date": "2026-06-28"
+      },
+      {
+        "id": "rev-14-2",
+        "user": "Tim B.",
+        "rating": 4,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-03"
+      }
+    ]
+  },
+  {
+    "id": "prod-15",
+    "name": "Aero Classic Security Camera",
+    "price": 28.87,
+    "description": "The Aero Classic Security Camera is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1557862921-37829c790f19?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.2,
+    "reviewsCount": 236,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Power Source": "Rechargeable Lithium Battery",
+      "Connectivity": "Bluetooth LE",
+      "Compatibility": "Google Home & Alexa",
+      "Weight": "450g"
+    },
+    "reviews": [
+      {
+        "id": "rev-15-1",
+        "user": "Bill G.",
+        "rating": 4,
+        "comment": "A bit smaller than expected, but features are outstanding.",
+        "date": "2026-06-19"
+      }
+    ]
+  },
+  {
+    "id": "prod-16",
+    "name": "Titan Lite Sport Bracelet",
+    "price": 273.79,
+    "description": "The Titan Lite Sport Bracelet is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.8,
+    "reviewsCount": 124,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 10 Days",
+      "Display": "1.43\" Always-On AMOLED",
+      "Water Resistance": "10 ATM (100m)",
+      "Sensors": "Heart Rate, Temp, Sleep Tracker",
+      "Material": "Titanium Alloy"
+    },
+    "reviews": [
+      {
+        "id": "rev-16-1",
+        "user": "Richard S.",
+        "rating": 4,
+        "comment": "A bit smaller than expected, but features are outstanding.",
+        "date": "2026-06-17"
+      },
+      {
+        "id": "rev-16-2",
+        "user": "Linus T.",
+        "rating": 5,
+        "comment": "Excellent response times and integration with my other developer setups.",
+        "date": "2026-06-06"
+      }
+    ]
+  },
+  {
+    "id": "prod-17",
+    "name": "Krypton Ultra Voice Hub",
+    "price": 54.73,
+    "description": "The Krypton Ultra Voice Hub is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.2,
+    "reviewsCount": 35,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Power Source": "Rechargeable Lithium Battery",
+      "Connectivity": "Wi-Fi 2.4GHz & 5GHz",
+      "Compatibility": "Standalone App Control",
+      "Weight": "180g"
+    },
+    "reviews": [
+      {
+        "id": "rev-17-1",
+        "user": "Ada L.",
+        "rating": 4,
+        "comment": "Perfect addition to my hardware catalog collection. Seamless REST synchronization.",
+        "date": "2026-06-14"
+      },
+      {
+        "id": "rev-17-2",
+        "user": "Claude S.",
+        "rating": 4,
+        "comment": "Excellent response times and integration with my other developer setups.",
+        "date": "2026-06-07"
+      }
+    ]
+  },
+  {
+    "id": "prod-18",
+    "name": "Zenith Classic Security Camera",
+    "price": 71.45,
+    "description": "The Zenith Classic Security Camera is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=600&q=80",
+    "rating": 5,
+    "reviewsCount": 92,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Power Source": "USB-C DC input",
+      "Connectivity": "Wi-Fi 2.4GHz & 5GHz",
+      "Compatibility": "Google Home & Alexa",
+      "Weight": "1.1kg"
+    },
+    "reviews": [
+      {
+        "id": "rev-18-1",
+        "user": "Donald K.",
+        "rating": 4,
+        "comment": "Decent performance but setup was slightly complicated. Still highly recommend.",
+        "date": "2026-06-05"
+      },
+      {
+        "id": "rev-18-2",
+        "user": "Guido R.",
+        "rating": 5,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-12"
+      }
+    ]
+  },
+  {
+    "id": "prod-19",
+    "name": "Apex Titanium Smartwatch",
+    "price": 287.43,
+    "description": "The Apex Titanium Smartwatch is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1539874754764-5a96559165b0?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.8,
+    "reviewsCount": 294,
+    "inStock": true,
+    "featured": true,
+    "specs": {
+      "Display": "No Screen (App Only)",
+      "Water Resistance": "5 ATM (50m)",
+      "Sensors": "ECG, Blood Oxygen, Accelerometer, Gyroscope",
+      "Material": "Anodized Aluminum"
+    },
+    "reviews": [
+      {
+        "id": "rev-19-1",
+        "user": "Bill G.",
+        "rating": 5,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-02"
+      }
+    ]
+  },
+  {
+    "id": "prod-20",
+    "name": "Core Lite Earbuds",
+    "price": 258.82,
+    "description": "The Core Lite Earbuds is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "audio",
+    "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.7,
+    "reviewsCount": 37,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 30 Hours",
+      "Drivers": "11mm Dynamic",
+      "Bluetooth": "Bluetooth 5.0",
+      "Weight": "6.1g per earbud",
+      "Water Resistance": "IP68 Dustproof"
+    },
+    "reviews": [
+      {
+        "id": "rev-20-1",
+        "user": "Claude S.",
+        "rating": 5,
+        "comment": "Perfect addition to my hardware catalog collection. Seamless REST synchronization.",
+        "date": "2026-06-15"
+      }
+    ]
+  },
+  {
+    "id": "prod-21",
+    "name": "Luna Studio Smart Panel Set",
+    "price": 50.74,
+    "description": "The Luna Studio Smart Panel Set is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1565814636199-ae8133055c1c?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.8,
+    "reviewsCount": 180,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Connectivity": "Wi-Fi 2.4GHz & 5GHz",
+      "Power Source": "AC Wall Adapter",
+      "Compatibility": "Standalone App Control",
+      "Weight": "220g"
+    },
+    "reviews": [
+      {
+        "id": "rev-21-1",
+        "user": "Richard S.",
+        "rating": 5,
+        "comment": "Absolute game changer! Extremely high build quality and sleek packaging.",
+        "date": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "id": "prod-22",
+    "name": "Pulse Pro Sport Bracelet",
+    "price": 192.75,
+    "description": "The Pulse Pro Sport Bracelet is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.3,
+    "reviewsCount": 74,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 14 Days",
+      "Water Resistance": "IP68 Waterproof",
+      "Material": "Ceramic & Glass"
+    },
+    "reviews": [
+      {
+        "id": "rev-22-1",
+        "user": "James G.",
+        "rating": 5,
+        "comment": "Perfect addition to my hardware catalog collection. Seamless REST synchronization.",
+        "date": "2026-06-08"
+      },
+      {
+        "id": "rev-22-2",
+        "user": "Richard S.",
+        "rating": 5,
+        "comment": "A bit smaller than expected, but features are outstanding.",
+        "date": "2026-06-03"
+      }
+    ]
+  },
+  {
+    "id": "prod-23",
+    "name": "Titan Prime Sleep Band",
+    "price": 222.11,
+    "description": "The Titan Prime Sleep Band is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.7,
+    "reviewsCount": 93,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 10 Days",
+      "Display": "1.43\" Always-On AMOLED",
+      "Water Resistance": "3 ATM",
+      "Sensors": "ECG, Blood Oxygen, Accelerometer, Gyroscope",
+      "Material": "Titanium Alloy"
+    },
+    "reviews": [
+      {
+        "id": "rev-23-1",
+        "user": "James G.",
+        "rating": 4,
+        "comment": "Solid entry-level device. Offers everything you need at a budget-friendly price.",
+        "date": "2026-06-14"
+      }
+    ]
+  },
+  {
+    "id": "prod-24",
+    "name": "Apex Titanium Type-C Hub",
+    "price": 392.49,
+    "description": "The Apex Titanium Type-C Hub is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.6,
+    "reviewsCount": 150,
+    "inStock": true,
+    "featured": true,
+    "specs": {
+      "Connectivity": "USB-C, Bluetooth & 2.4GHz",
+      "Weight": "350g",
+      "Material": "Tempered Glass"
+    },
+    "reviews": [
+      {
+        "id": "rev-24-1",
+        "user": "Ken T.",
+        "rating": 4,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-03"
+      },
+      {
+        "id": "rev-24-2",
+        "user": "Linus T.",
+        "rating": 5,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-01"
+      }
+    ]
+  },
+  {
+    "id": "prod-25",
+    "name": "Titan Premium Smart Panel Set",
+    "price": 182.5,
+    "description": "The Titan Premium Smart Panel Set is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1557862921-37829c790f19?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.6,
+    "reviewsCount": 294,
+    "inStock": true,
+    "featured": true,
+    "specs": {
+      "Power Source": "AC Wall Adapter",
+      "Compatibility": "Matter Certified Hubs"
+    },
+    "reviews": [
+      {
+        "id": "rev-25-1",
+        "user": "Bill G.",
+        "rating": 5,
+        "comment": "Decent performance but setup was slightly complicated. Still highly recommend.",
+        "date": "2026-06-04"
+      }
+    ]
+  },
+  {
+    "id": "prod-26",
+    "name": "Matrix Prime Headphones",
+    "price": 145,
+    "description": "The Matrix Prime Headphones is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "audio",
+    "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.3,
+    "reviewsCount": 69,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 40 Hours",
+      "Drivers": "11mm Dynamic",
+      "Bluetooth": "Bluetooth 5.0",
+      "Weight": "320g",
+      "Water Resistance": "IP68 Dustproof"
+    },
+    "reviews": [
+      {
+        "id": "rev-26-1",
+        "user": "Bjarne S.",
+        "rating": 4,
+        "comment": "Decent performance but setup was slightly complicated. Still highly recommend.",
+        "date": "2026-06-15"
+      },
+      {
+        "id": "rev-26-2",
+        "user": "Grace H.",
+        "rating": 5,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-21"
+      }
+    ]
+  },
+  {
+    "id": "prod-27",
+    "name": "Aero Phantom Health Ring",
+    "price": 67.72,
+    "description": "The Aero Phantom Health Ring is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.6,
+    "reviewsCount": 277,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 6 Days",
+      "Display": "0.96\" Color LCD",
+      "Water Resistance": "IP68 Waterproof",
+      "Sensors": "Heart Rate, Temp, Sleep Tracker",
+      "Material": "Hypoallergenic Polymer"
+    },
+    "reviews": [
+      {
+        "id": "rev-27-1",
+        "user": "Ken T.",
+        "rating": 4,
+        "comment": "A bit smaller than expected, but features are outstanding.",
+        "date": "2026-06-21"
+      }
+    ]
+  },
+  {
+    "id": "prod-28",
+    "name": "Nova Ultra Sleep Band",
+    "price": 106.58,
+    "description": "The Nova Ultra Sleep Band is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.5,
+    "reviewsCount": 194,
+    "inStock": false,
+    "featured": false,
+    "specs": {
+      "Display": "1.28\" OLED",
+      "Water Resistance": "5 ATM (50m)",
+      "Sensors": "Activity tracking only",
+      "Material": "Anodized Aluminum"
+    },
+    "reviews": [
+      {
+        "id": "rev-28-1",
+        "user": "Bill G.",
+        "rating": 4,
+        "comment": "A bit smaller than expected, but features are outstanding.",
+        "date": "2026-06-06"
+      },
+      {
+        "id": "rev-28-2",
+        "user": "Dennis R.",
+        "rating": 5,
+        "comment": "Perfect addition to my hardware catalog collection. Seamless REST synchronization.",
+        "date": "2026-06-12"
+      }
+    ]
+  },
+  {
+    "id": "prod-29",
+    "name": "Zenith Prime Fitness Tracker",
+    "price": 139.15,
+    "description": "The Zenith Prime Fitness Tracker is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1539874754764-5a96559165b0?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.4,
+    "reviewsCount": 276,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 14 Days",
+      "Display": "0.96\" Color LCD",
+      "Water Resistance": "5 ATM (50m)",
+      "Sensors": "Heart Rate, Temp, Sleep Tracker",
+      "Material": "Ceramic & Glass"
+    },
+    "reviews": [
+      {
+        "id": "rev-29-1",
+        "user": "Ada L.",
+        "rating": 4,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-16"
+      }
+    ]
+  },
+  {
+    "id": "prod-30",
+    "name": "Core Ultra Mechanical Keyboard",
+    "price": 684.78,
+    "description": "The Core Ultra Mechanical Keyboard is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.7,
+    "reviewsCount": 214,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Weight": "850g",
+      "Interface": "Standard ANSI",
+      "Material": "Double-shot PBT Plastic"
+    },
+    "reviews": [
+      {
+        "id": "rev-30-1",
+        "user": "Claude S.",
+        "rating": 4,
+        "comment": "A bit smaller than expected, but features are outstanding.",
+        "date": "2026-06-16"
+      },
+      {
+        "id": "rev-30-2",
+        "user": "Dennis R.",
+        "rating": 4,
+        "comment": "A bit smaller than expected, but features are outstanding.",
+        "date": "2026-06-20"
+      }
+    ]
+  },
+  {
+    "id": "prod-31",
+    "name": "Stellar Active Atmospheric Light",
+    "price": 150.27,
+    "description": "The Stellar Active Atmospheric Light is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1565814636199-ae8133055c1c?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.8,
+    "reviewsCount": 73,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Power Source": "AC Wall Adapter",
+      "Compatibility": "Matter Certified Hubs",
+      "Weight": "220g"
+    },
+    "reviews": [
+      {
+        "id": "rev-31-1",
+        "user": "Bill G.",
+        "rating": 5,
+        "comment": "Decent performance but setup was slightly complicated. Still highly recommend.",
+        "date": "2026-06-05"
+      },
+      {
+        "id": "rev-31-2",
+        "user": "Dennis R.",
+        "rating": 5,
+        "comment": "Solid entry-level device. Offers everything you need at a budget-friendly price.",
+        "date": "2026-06-13"
+      }
+    ]
+  },
+  {
+    "id": "prod-32",
+    "name": "Aether Signature Sport Bracelet",
+    "price": 66.55,
+    "description": "The Aether Signature Sport Bracelet is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.5,
+    "reviewsCount": 252,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Water Resistance": "10 ATM (100m)",
+      "Sensors": "Activity tracking only",
+      "Material": "Titanium Alloy"
+    },
+    "reviews": [
+      {
+        "id": "rev-32-1",
+        "user": "Tim B.",
+        "rating": 5,
+        "comment": "Solid entry-level device. Offers everything you need at a budget-friendly price.",
+        "date": "2026-06-10"
+      },
+      {
+        "id": "rev-32-2",
+        "user": "Linus T.",
+        "rating": 4,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-07"
+      }
+    ]
+  },
+  {
+    "id": "prod-33",
+    "name": "Echo Lite Curved Monitor",
+    "price": 161.88,
+    "description": "The Echo Lite Curved Monitor is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.9,
+    "reviewsCount": 272,
+    "inStock": false,
+    "featured": false,
+    "specs": {
+      "Connectivity": "USB-C Detachable Cable",
+      "Weight": "350g",
+      "Interface": "Hot-swappable MX Switches",
+      "Material": "Double-shot PBT Plastic"
+    },
+    "reviews": [
+      {
+        "id": "rev-33-1",
+        "user": "Tim B.",
+        "rating": 4,
+        "comment": "Very reliable. I have been using this daily for weeks now with zero issues.",
+        "date": "2026-06-12"
+      }
+    ]
+  },
+  {
+    "id": "prod-34",
+    "name": "Vector Phantom Sport Bracelet",
+    "price": 121.18,
+    "description": "The Vector Phantom Sport Bracelet is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1539874754764-5a96559165b0?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.4,
+    "reviewsCount": 171,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 14 Days",
+      "Display": "1.43\" Always-On AMOLED",
+      "Water Resistance": "IP68 Waterproof",
+      "Sensors": "Activity tracking only",
+      "Material": "Anodized Aluminum"
+    },
+    "reviews": [
+      {
+        "id": "rev-34-1",
+        "user": "Ada L.",
+        "rating": 4,
+        "comment": "Solid entry-level device. Offers everything you need at a budget-friendly price.",
+        "date": "2026-06-22"
+      },
+      {
+        "id": "rev-34-2",
+        "user": "Dennis R.",
+        "rating": 5,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-28"
+      }
+    ]
+  },
+  {
+    "id": "prod-35",
+    "name": "Krypton Studio Subwoofer",
+    "price": 324.42,
+    "description": "The Krypton Studio Subwoofer is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "audio",
+    "image": "https://images.unsplash.com/photo-1487215078519-e21cc028cb29?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.3,
+    "reviewsCount": 196,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 50 Hours",
+      "Drivers": "50mm Beryllium",
+      "Bluetooth": "Bluetooth 5.0",
+      "Weight": "6.1g per earbud"
+    },
+    "reviews": [
+      {
+        "id": "rev-35-1",
+        "user": "Steve J.",
+        "rating": 5,
+        "comment": "Perfect addition to my hardware catalog collection. Seamless REST synchronization.",
+        "date": "2026-06-20"
+      },
+      {
+        "id": "rev-35-2",
+        "user": "James G.",
+        "rating": 5,
+        "comment": "A bit smaller than expected, but features are outstanding.",
+        "date": "2026-06-28"
+      }
+    ]
+  },
+  {
+    "id": "prod-36",
+    "name": "Core Signature Ambient Speaker",
+    "price": 279.69,
+    "description": "The Core Signature Ambient Speaker is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "audio",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.5,
+    "reviewsCount": 261,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "10 Hours (40 w/ Case)",
+      "Bluetooth": "Bluetooth 5.3",
+      "Weight": "6.1g per earbud",
+      "Water Resistance": "IPX7 Waterproof"
+    },
+    "reviews": [
+      {
+        "id": "rev-36-1",
+        "user": "Richard S.",
+        "rating": 4,
+        "comment": "Solid entry-level device. Offers everything you need at a budget-friendly price.",
+        "date": "2026-06-10"
+      }
+    ]
+  },
+  {
+    "id": "prod-37",
+    "name": "Apex Carbon Ambient Speaker",
+    "price": 200.82,
+    "description": "The Apex Carbon Ambient Speaker is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "audio",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.2,
+    "reviewsCount": 195,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 30 Hours",
+      "Drivers": "50mm Beryllium",
+      "Bluetooth": "Bluetooth 5.2",
+      "Weight": "6.1g per earbud",
+      "Water Resistance": "IPX4 Splashproof"
+    },
+    "reviews": [
+      {
+        "id": "rev-37-1",
+        "user": "Steve J.",
+        "rating": 4,
+        "comment": "Decent performance but setup was slightly complicated. Still highly recommend.",
+        "date": "2026-06-05"
+      },
+      {
+        "id": "rev-37-2",
+        "user": "Alan T.",
+        "rating": 5,
+        "comment": "Solid entry-level device. Offers everything you need at a budget-friendly price.",
+        "date": "2026-06-04"
+      }
+    ]
+  },
+  {
+    "id": "prod-38",
+    "name": "Core Signature Sport Bracelet",
+    "price": 286.25,
+    "description": "The Core Signature Sport Bracelet is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.8,
+    "reviewsCount": 45,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 7 Days",
+      "Display": "1.28\" OLED",
+      "Water Resistance": "IP68 Waterproof",
+      "Sensors": "ECG, Blood Oxygen, Accelerometer, Gyroscope",
+      "Material": "Titanium Alloy"
+    },
+    "reviews": [
+      {
+        "id": "rev-38-1",
+        "user": "Bill G.",
+        "rating": 4,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-24"
+      },
+      {
+        "id": "rev-38-2",
+        "user": "Alan T.",
+        "rating": 5,
+        "comment": "Perfect addition to my hardware catalog collection. Seamless REST synchronization.",
+        "date": "2026-06-23"
+      }
+    ]
+  },
+  {
+    "id": "prod-39",
+    "name": "Spectre Signature Air Purifier",
+    "price": 133.68,
+    "description": "The Spectre Signature Air Purifier is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.8,
+    "reviewsCount": 58,
+    "inStock": true,
+    "featured": true,
+    "specs": {
+      "Power Source": "Rechargeable Lithium Battery",
+      "Connectivity": "Thread Mesh System",
+      "Compatibility": "Google Home & Alexa",
+      "Weight": "180g"
+    },
+    "reviews": [
+      {
+        "id": "rev-39-1",
+        "user": "Richard S.",
+        "rating": 5,
+        "comment": "Solid entry-level device. Offers everything you need at a budget-friendly price.",
+        "date": "2026-06-09"
+      },
+      {
+        "id": "rev-39-2",
+        "user": "Ken T.",
+        "rating": 4,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-25"
+      }
+    ]
+  },
+  {
+    "id": "prod-40",
+    "name": "Luna Premium Desk Mat",
+    "price": 416.92,
+    "description": "The Luna Premium Desk Mat is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.6,
+    "reviewsCount": 99,
+    "inStock": false,
+    "featured": false,
+    "specs": {
+      "Connectivity": "USB-C Detachable Cable",
+      "Weight": "850g",
+      "Interface": "Plug & Play USB",
+      "Material": "Double-shot PBT Plastic"
+    },
+    "reviews": [
+      {
+        "id": "rev-40-1",
+        "user": "Claude S.",
+        "rating": 5,
+        "comment": "A bit smaller than expected, but features are outstanding.",
+        "date": "2026-06-02"
+      }
+    ]
+  },
+  {
+    "id": "prod-41",
+    "name": "Titan Prime Smart Panel Set",
+    "price": 21.15,
+    "description": "The Titan Prime Smart Panel Set is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1565814636199-ae8133055c1c?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.8,
+    "reviewsCount": 61,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Power Source": "Rechargeable Lithium Battery",
+      "Connectivity": "Bluetooth LE",
+      "Weight": "90g"
+    },
+    "reviews": [
+      {
+        "id": "rev-41-1",
+        "user": "Ada L.",
+        "rating": 5,
+        "comment": "Decent performance but setup was slightly complicated. Still highly recommend.",
+        "date": "2026-06-19"
+      },
+      {
+        "id": "rev-41-2",
+        "user": "Ken T.",
+        "rating": 5,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-12"
+      }
+    ]
+  },
+  {
+    "id": "prod-42",
+    "name": "Spectre Hybrid Smart Panel Set",
+    "price": 186.51,
+    "description": "The Spectre Hybrid Smart Panel Set is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.5,
+    "reviewsCount": 34,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Power Source": "Rechargeable Lithium Battery",
+      "Connectivity": "Wi-Fi 2.4GHz & 5GHz",
+      "Compatibility": "Google Home & Alexa",
+      "Weight": "90g"
+    },
+    "reviews": [
+      {
+        "id": "rev-42-1",
+        "user": "James G.",
+        "rating": 4,
+        "comment": "Perfect addition to my hardware catalog collection. Seamless REST synchronization.",
+        "date": "2026-06-06"
+      },
+      {
+        "id": "rev-42-2",
+        "user": "Alan T.",
+        "rating": 5,
+        "comment": "Excellent response times and integration with my other developer setups.",
+        "date": "2026-06-09"
+      }
+    ]
+  },
+  {
+    "id": "prod-43",
+    "name": "Titan Signature Body Sensor",
+    "price": 286.3,
+    "description": "The Titan Signature Body Sensor is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.3,
+    "reviewsCount": 181,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 14 Days",
+      "Water Resistance": "10 ATM (100m)",
+      "Material": "Anodized Aluminum"
+    },
+    "reviews": [
+      {
+        "id": "rev-43-1",
+        "user": "Bjarne S.",
+        "rating": 4,
+        "comment": "Excellent response times and integration with my other developer setups.",
+        "date": "2026-06-08"
+      },
+      {
+        "id": "rev-43-2",
+        "user": "Dennis R.",
+        "rating": 5,
+        "comment": "Excellent response times and integration with my other developer setups.",
+        "date": "2026-06-12"
+      }
+    ]
+  },
+  {
+    "id": "prod-44",
+    "name": "Vector Titanium Vertical Stand",
+    "price": 19.5,
+    "description": "The Vector Titanium Vertical Stand is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.7,
+    "reviewsCount": 108,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Connectivity": "USB-C 90W Pass-through",
+      "Interface": "Opto-Mechanical",
+      "Material": "CNC Machined Aluminum"
+    },
+    "reviews": [
+      {
+        "id": "rev-44-1",
+        "user": "Tim B.",
+        "rating": 4,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-15"
+      },
+      {
+        "id": "rev-44-2",
+        "user": "John M.",
+        "rating": 5,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-04"
+      }
+    ]
+  },
+  {
+    "id": "prod-45",
+    "name": "Pulse Signature Atmospheric Light",
+    "price": 234.01,
+    "description": "The Pulse Signature Atmospheric Light is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1557862921-37829c790f19?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.4,
+    "reviewsCount": 86,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Power Source": "USB-C DC input",
+      "Connectivity": "Bluetooth LE",
+      "Compatibility": "Google Home & Alexa",
+      "Weight": "90g"
+    },
+    "reviews": [
+      {
+        "id": "rev-45-1",
+        "user": "Bill G.",
+        "rating": 5,
+        "comment": "Excellent response times and integration with my other developer setups.",
+        "date": "2026-06-23"
+      }
+    ]
+  },
+  {
+    "id": "prod-46",
+    "name": "Core Lite Type-C Hub",
+    "price": 398.36,
+    "description": "The Core Lite Type-C Hub is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.5,
+    "reviewsCount": 28,
+    "inStock": false,
+    "featured": false,
+    "specs": {
+      "Weight": "350g",
+      "Interface": "Hot-swappable MX Switches",
+      "Material": "Eco-friendly Bamboo"
+    },
+    "reviews": [
+      {
+        "id": "rev-46-1",
+        "user": "Tim B.",
+        "rating": 5,
+        "comment": "Decent performance but setup was slightly complicated. Still highly recommend.",
+        "date": "2026-06-25"
+      }
+    ]
+  },
+  {
+    "id": "prod-47",
+    "name": "Quantum Prime DAC Amplifier",
+    "price": 73.85,
+    "description": "The Quantum Prime DAC Amplifier is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "audio",
+    "image": "https://images.unsplash.com/photo-1487215078519-e21cc028cb29?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.2,
+    "reviewsCount": 121,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "10 Hours (40 w/ Case)",
+      "Drivers": "Planar Magnetic",
+      "Water Resistance": "IPX7 Waterproof"
+    },
+    "reviews": [
+      {
+        "id": "rev-47-1",
+        "user": "Ada L.",
+        "rating": 4,
+        "comment": "Excellent response times and integration with my other developer setups.",
+        "date": "2026-06-19"
+      }
+    ]
+  },
+  {
+    "id": "prod-48",
+    "name": "Aether Titanium Desk Mat",
+    "price": 644.35,
+    "description": "The Aether Titanium Desk Mat is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.7,
+    "reviewsCount": 241,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Weight": "720g",
+      "Interface": "Hot-swappable MX Switches",
+      "Material": "Premium Felt"
+    },
+    "reviews": [
+      {
+        "id": "rev-48-1",
+        "user": "Linus T.",
+        "rating": 5,
+        "comment": "Decent performance but setup was slightly complicated. Still highly recommend.",
+        "date": "2026-06-19"
+      }
+    ]
+  },
+  {
+    "id": "prod-49",
+    "name": "Titan Titanium Body Sensor",
+    "price": 200.96,
+    "description": "The Titan Titanium Body Sensor is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1539874754764-5a96559165b0?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.6,
+    "reviewsCount": 161,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 10 Days",
+      "Display": "No Screen (App Only)",
+      "Water Resistance": "3 ATM"
+    },
+    "reviews": [
+      {
+        "id": "rev-49-1",
+        "user": "John M.",
+        "rating": 5,
+        "comment": "Decent performance but setup was slightly complicated. Still highly recommend.",
+        "date": "2026-06-11"
+      }
+    ]
+  },
+  {
+    "id": "prod-50",
+    "name": "Krypton Phantom Air Purifier",
+    "price": 161.22,
+    "description": "The Krypton Phantom Air Purifier is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1557862921-37829c790f19?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.5,
+    "reviewsCount": 227,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Power Source": "Rechargeable Lithium Battery",
+      "Compatibility": "Standalone App Control",
+      "Weight": "220g"
+    },
+    "reviews": [
+      {
+        "id": "rev-50-1",
+        "user": "Bjarne S.",
+        "rating": 5,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-05"
+      },
+      {
+        "id": "rev-50-2",
+        "user": "Linus T.",
+        "rating": 4,
+        "comment": "Solid entry-level device. Offers everything you need at a budget-friendly price.",
+        "date": "2026-06-11"
+      }
+    ]
+  },
+  {
+    "id": "prod-51",
+    "name": "Luna Titanium Sleep Band",
+    "price": 244.77,
+    "description": "The Luna Titanium Sleep Band is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=600&q=80",
+    "rating": 5,
+    "reviewsCount": 80,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 6 Days",
+      "Display": "1.28\" OLED",
+      "Sensors": "Heart Rate, SpO2, Accelerometer",
+      "Material": "Hypoallergenic Polymer"
+    },
+    "reviews": [
+      {
+        "id": "rev-51-1",
+        "user": "Linus T.",
+        "rating": 5,
+        "comment": "Solid entry-level device. Offers everything you need at a budget-friendly price.",
+        "date": "2026-06-03"
+      }
+    ]
+  },
+  {
+    "id": "prod-52",
+    "name": "Sol Ultra Wrist Rest",
+    "price": 336.96,
+    "description": "The Sol Ultra Wrist Rest is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.9,
+    "reviewsCount": 66,
+    "inStock": true,
+    "featured": true,
+    "specs": {
+      "Weight": "350g",
+      "Interface": "Opto-Mechanical",
+      "Material": "CNC Machined Aluminum"
+    },
+    "reviews": [
+      {
+        "id": "rev-52-1",
+        "user": "Richard S.",
+        "rating": 5,
+        "comment": "Very reliable. I have been using this daily for weeks now with zero issues.",
+        "date": "2026-06-14"
+      },
+      {
+        "id": "rev-52-2",
+        "user": "Grace H.",
+        "rating": 5,
+        "comment": "Excellent response times and integration with my other developer setups.",
+        "date": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "id": "prod-53",
+    "name": "Aether Carbon Smart Panel Set",
+    "price": 121.49,
+    "description": "The Aether Carbon Smart Panel Set is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=600&q=80",
+    "rating": 5,
+    "reviewsCount": 49,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Power Source": "AC Wall Adapter",
+      "Connectivity": "Zigbee & Matter Protocol",
+      "Compatibility": "Alexa, Google Assistant, Apple HomeKit",
+      "Weight": "180g"
+    },
+    "reviews": [
+      {
+        "id": "rev-53-1",
+        "user": "Donald K.",
+        "rating": 4,
+        "comment": "Perfect addition to my hardware catalog collection. Seamless REST synchronization.",
+        "date": "2026-06-20"
+      },
+      {
+        "id": "rev-53-2",
+        "user": "Richard S.",
+        "rating": 4,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-14"
+      }
+    ]
+  },
+  {
+    "id": "prod-54",
+    "name": "Stellar Signature Headphones",
+    "price": 80.54,
+    "description": "The Stellar Signature Headphones is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "audio",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.1,
+    "reviewsCount": 62,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "AC Powered",
+      "Bluetooth": "Bluetooth 5.0",
+      "Weight": "250g"
+    },
+    "reviews": [
+      {
+        "id": "rev-54-1",
+        "user": "James G.",
+        "rating": 4,
+        "comment": "Excellent response times and integration with my other developer setups.",
+        "date": "2026-06-27"
+      },
+      {
+        "id": "rev-54-2",
+        "user": "John M.",
+        "rating": 4,
+        "comment": "A bit smaller than expected, but features are outstanding.",
+        "date": "2026-06-03"
+      }
+    ]
+  },
+  {
+    "id": "prod-55",
+    "name": "Luna Hybrid Earbuds",
+    "price": 175.09,
+    "description": "The Luna Hybrid Earbuds is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "audio",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.8,
+    "reviewsCount": 266,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Bluetooth": "Wi-Fi & BT Dual Connection",
+      "Weight": "5.2g per earbud",
+      "Water Resistance": "IPX7 Waterproof"
+    },
+    "reviews": [
+      {
+        "id": "rev-55-1",
+        "user": "Linus T.",
+        "rating": 5,
+        "comment": "Excellent response times and integration with my other developer setups.",
+        "date": "2026-06-01"
+      }
+    ]
+  },
+  {
+    "id": "prod-56",
+    "name": "Aether Classic Earbuds",
+    "price": 359.85,
+    "description": "The Aether Classic Earbuds is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "audio",
+    "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.8,
+    "reviewsCount": 283,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 40 Hours",
+      "Drivers": "11mm Dynamic",
+      "Weight": "320g",
+      "Water Resistance": "IP68 Dustproof"
+    },
+    "reviews": [
+      {
+        "id": "rev-56-1",
+        "user": "Tim B.",
+        "rating": 4,
+        "comment": "Solid entry-level device. Offers everything you need at a budget-friendly price.",
+        "date": "2026-06-10"
+      },
+      {
+        "id": "rev-56-2",
+        "user": "Alan T.",
+        "rating": 4,
+        "comment": "A bit smaller than expected, but features are outstanding.",
+        "date": "2026-06-16"
+      }
+    ]
+  },
+  {
+    "id": "prod-57",
+    "name": "Pulse Signature Smart Panel Set",
+    "price": 123,
+    "description": "The Pulse Signature Smart Panel Set is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.7,
+    "reviewsCount": 290,
+    "inStock": false,
+    "featured": false,
+    "specs": {
+      "Power Source": "USB-C DC input",
+      "Connectivity": "Bluetooth LE",
+      "Compatibility": "Google Home & Alexa",
+      "Weight": "90g"
+    },
+    "reviews": [
+      {
+        "id": "rev-57-1",
+        "user": "Donald K.",
+        "rating": 5,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-19"
+      },
+      {
+        "id": "rev-57-2",
+        "user": "John M.",
+        "rating": 5,
+        "comment": "Solid entry-level device. Offers everything you need at a budget-friendly price.",
+        "date": "2026-06-01"
+      }
+    ]
+  },
+  {
+    "id": "prod-58",
+    "name": "Apex Hybrid Ambient Speaker",
+    "price": 306.35,
+    "description": "The Apex Hybrid Ambient Speaker is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "audio",
+    "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.3,
+    "reviewsCount": 112,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Drivers": "Planar Magnetic",
+      "Bluetooth": "Bluetooth 5.0",
+      "Weight": "1.5kg"
+    },
+    "reviews": [
+      {
+        "id": "rev-58-1",
+        "user": "Bjarne S.",
+        "rating": 5,
+        "comment": "Excellent response times and integration with my other developer setups.",
+        "date": "2026-06-14"
+      },
+      {
+        "id": "rev-58-2",
+        "user": "John M.",
+        "rating": 4,
+        "comment": "Perfect addition to my hardware catalog collection. Seamless REST synchronization.",
+        "date": "2026-06-20"
+      }
+    ]
+  },
+  {
+    "id": "prod-59",
+    "name": "Echo Pro Studio Monitor",
+    "price": 216.03,
+    "description": "The Echo Pro Studio Monitor is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "audio",
+    "image": "https://images.unsplash.com/photo-1487215078519-e21cc028cb29?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.2,
+    "reviewsCount": 96,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Drivers": "40mm Custom Dynamic",
+      "Bluetooth": "Bluetooth 5.3",
+      "Weight": "250g"
+    },
+    "reviews": [
+      {
+        "id": "rev-59-1",
+        "user": "John M.",
+        "rating": 4,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-16"
+      }
+    ]
+  },
+  {
+    "id": "prod-60",
+    "name": "Krypton Studio Smartwatch",
+    "price": 255.49,
+    "description": "The Krypton Studio Smartwatch is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.9,
+    "reviewsCount": 131,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 6 Days",
+      "Display": "No Screen (App Only)",
+      "Sensors": "Heart Rate, Temp, Sleep Tracker",
+      "Material": "Hypoallergenic Polymer"
+    },
+    "reviews": [
+      {
+        "id": "rev-60-1",
+        "user": "Margaret H.",
+        "rating": 5,
+        "comment": "Absolute game changer! Extremely high build quality and sleek packaging.",
+        "date": "2026-06-22"
+      },
+      {
+        "id": "rev-60-2",
+        "user": "James G.",
+        "rating": 5,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-09"
+      }
+    ]
+  },
+  {
+    "id": "prod-61",
+    "name": "Echo Elite Smart Eyewear",
+    "price": 85.72,
+    "description": "The Echo Elite Smart Eyewear is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.8,
+    "reviewsCount": 252,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Display": "0.96\" Color LCD",
+      "Water Resistance": "5 ATM (50m)",
+      "Material": "Anodized Aluminum"
+    },
+    "reviews": [
+      {
+        "id": "rev-61-1",
+        "user": "Claude S.",
+        "rating": 5,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-01"
+      }
+    ]
+  },
+  {
+    "id": "prod-62",
+    "name": "Quantum Phantom Sport Bracelet",
+    "price": 144.85,
+    "description": "The Quantum Phantom Sport Bracelet is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=600&q=80",
+    "rating": 5,
+    "reviewsCount": 163,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 10 Days",
+      "Display": "0.96\" Color LCD",
+      "Water Resistance": "5 ATM (50m)",
+      "Sensors": "ECG, Blood Oxygen, Accelerometer, Gyroscope",
+      "Material": "Anodized Aluminum"
+    },
+    "reviews": [
+      {
+        "id": "rev-62-1",
+        "user": "Alan T.",
+        "rating": 5,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-08"
+      },
+      {
+        "id": "rev-62-2",
+        "user": "Alan T.",
+        "rating": 4,
+        "comment": "Very reliable. I have been using this daily for weeks now with zero issues.",
+        "date": "2026-06-11"
+      }
+    ]
+  },
+  {
+    "id": "prod-63",
+    "name": "Luna Titanium Home Controller",
+    "price": 232.98,
+    "description": "The Luna Titanium Home Controller is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.7,
+    "reviewsCount": 187,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Power Source": "USB-C DC input",
+      "Connectivity": "Zigbee & Matter Protocol",
+      "Compatibility": "Matter Certified Hubs"
+    },
+    "reviews": [
+      {
+        "id": "rev-63-1",
+        "user": "Claude S.",
+        "rating": 4,
+        "comment": "Excellent response times and integration with my other developer setups.",
+        "date": "2026-06-08"
+      }
+    ]
+  },
+  {
+    "id": "prod-64",
+    "name": "Nova Ultra Air Purifier",
+    "price": 178.21,
+    "description": "The Nova Ultra Air Purifier is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.7,
+    "reviewsCount": 90,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Power Source": "USB-C DC input",
+      "Connectivity": "Wi-Fi 2.4GHz & 5GHz",
+      "Weight": "90g"
+    },
+    "reviews": [
+      {
+        "id": "rev-64-1",
+        "user": "Ada L.",
+        "rating": 4,
+        "comment": "Solid entry-level device. Offers everything you need at a budget-friendly price.",
+        "date": "2026-06-27"
+      }
+    ]
+  },
+  {
+    "id": "prod-65",
+    "name": "Krypton Classic Curved Monitor",
+    "price": 101.97,
+    "description": "The Krypton Classic Curved Monitor is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.2,
+    "reviewsCount": 34,
+    "inStock": true,
+    "featured": true,
+    "specs": {
+      "Weight": "95g (Ultra-light)",
+      "Connectivity": "USB-C Detachable Cable",
+      "Interface": "Hot-swappable MX Switches",
+      "Material": "Eco-friendly Bamboo"
+    },
+    "reviews": [
+      {
+        "id": "rev-65-1",
+        "user": "Ada L.",
+        "rating": 4,
+        "comment": "Absolute game changer! Extremely high build quality and sleek packaging.",
+        "date": "2026-06-02"
+      }
+    ]
+  },
+  {
+    "id": "prod-66",
+    "name": "Echo Ultra Subwoofer",
+    "price": 180.71,
+    "description": "The Echo Ultra Subwoofer is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "audio",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.7,
+    "reviewsCount": 242,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "8 Hours (32 w/ Case)",
+      "Bluetooth": "Bluetooth 5.2",
+      "Water Resistance": "IPX4 Splashproof"
+    },
+    "reviews": [
+      {
+        "id": "rev-66-1",
+        "user": "Tim B.",
+        "rating": 4,
+        "comment": "A bit smaller than expected, but features are outstanding.",
+        "date": "2026-06-13"
+      },
+      {
+        "id": "rev-66-2",
+        "user": "Ada L.",
+        "rating": 4,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "id": "prod-67",
+    "name": "Nova Lite Fitness Tracker",
+    "price": 85.9,
+    "description": "The Nova Lite Fitness Tracker is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=600&q=80",
+    "rating": 5,
+    "reviewsCount": 128,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 14 Days",
+      "Water Resistance": "3 ATM",
+      "Sensors": "ECG, Blood Oxygen, Accelerometer, Gyroscope",
+      "Material": "Ceramic & Glass"
+    },
+    "reviews": [
+      {
+        "id": "rev-67-1",
+        "user": "Guido R.",
+        "rating": 5,
+        "comment": "Perfect addition to my hardware catalog collection. Seamless REST synchronization.",
+        "date": "2026-06-23"
+      },
+      {
+        "id": "rev-67-2",
+        "user": "Alan T.",
+        "rating": 4,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-28"
+      }
+    ]
+  },
+  {
+    "id": "prod-68",
+    "name": "Quantum Signature DAC Amplifier",
+    "price": 255.22,
+    "description": "The Quantum Signature DAC Amplifier is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "audio",
+    "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.9,
+    "reviewsCount": 18,
+    "inStock": true,
+    "featured": true,
+    "specs": {
+      "Battery Life": "Up to 30 Hours",
+      "Drivers": "50mm Beryllium",
+      "Weight": "1.5kg",
+      "Water Resistance": "None"
+    },
+    "reviews": [
+      {
+        "id": "rev-68-1",
+        "user": "Steve J.",
+        "rating": 4,
+        "comment": "Very reliable. I have been using this daily for weeks now with zero issues.",
+        "date": "2026-06-19"
+      },
+      {
+        "id": "rev-68-2",
+        "user": "Guido R.",
+        "rating": 5,
+        "comment": "Absolute game changer! Extremely high build quality and sleek packaging.",
+        "date": "2026-06-12"
+      }
+    ]
+  },
+  {
+    "id": "prod-69",
+    "name": "Aero Carbon Health Ring",
+    "price": 189.6,
+    "description": "The Aero Carbon Health Ring is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1539874754764-5a96559165b0?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.6,
+    "reviewsCount": 54,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 24 Hours",
+      "Display": "0.96\" Color LCD",
+      "Water Resistance": "10 ATM (100m)",
+      "Sensors": "Activity tracking only",
+      "Material": "Ceramic & Glass"
+    },
+    "reviews": [
+      {
+        "id": "rev-69-1",
+        "user": "Guido R.",
+        "rating": 4,
+        "comment": "Very reliable. I have been using this daily for weeks now with zero issues.",
+        "date": "2026-06-05"
+      }
+    ]
+  },
+  {
+    "id": "prod-70",
+    "name": "Echo Hybrid Smart Doorlock",
+    "price": 67.72,
+    "description": "The Echo Hybrid Smart Doorlock is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1557862921-37829c790f19?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.4,
+    "reviewsCount": 263,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Power Source": "Hardwired 12V",
+      "Connectivity": "Bluetooth LE",
+      "Compatibility": "Standalone App Control",
+      "Weight": "220g"
+    },
+    "reviews": [
+      {
+        "id": "rev-70-1",
+        "user": "Grace H.",
+        "rating": 5,
+        "comment": "Solid entry-level device. Offers everything you need at a budget-friendly price.",
+        "date": "2026-06-03"
+      },
+      {
+        "id": "rev-70-2",
+        "user": "Steve J.",
+        "rating": 4,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-25"
+      }
+    ]
+  },
+  {
+    "id": "prod-71",
+    "name": "Luna Studio DAC Amplifier",
+    "price": 339.96,
+    "description": "The Luna Studio DAC Amplifier is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "audio",
+    "image": "https://images.unsplash.com/photo-1487215078519-e21cc028cb29?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.2,
+    "reviewsCount": 114,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 40 Hours",
+      "Drivers": "Dual Balanced Armature",
+      "Bluetooth": "Bluetooth 5.2",
+      "Weight": "320g"
+    },
+    "reviews": [
+      {
+        "id": "rev-71-1",
+        "user": "Claude S.",
+        "rating": 5,
+        "comment": "Solid entry-level device. Offers everything you need at a budget-friendly price.",
+        "date": "2026-06-16"
+      },
+      {
+        "id": "rev-71-2",
+        "user": "Ada L.",
+        "rating": 5,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-06"
+      }
+    ]
+  },
+  {
+    "id": "prod-72",
+    "name": "Zenith Active Sensors Pack",
+    "price": 210.72,
+    "description": "The Zenith Active Sensors Pack is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.7,
+    "reviewsCount": 109,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Power Source": "Hardwired 12V",
+      "Weight": "220g"
+    },
+    "reviews": [
+      {
+        "id": "rev-72-1",
+        "user": "John M.",
+        "rating": 5,
+        "comment": "Very reliable. I have been using this daily for weeks now with zero issues.",
+        "date": "2026-06-11"
+      },
+      {
+        "id": "rev-72-2",
+        "user": "James G.",
+        "rating": 5,
+        "comment": "Absolute game changer! Extremely high build quality and sleek packaging.",
+        "date": "2026-06-06"
+      }
+    ]
+  },
+  {
+    "id": "prod-73",
+    "name": "Aether Phantom Sleep Band",
+    "price": 264.16,
+    "description": "The Aether Phantom Sleep Band is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.4,
+    "reviewsCount": 137,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 6 Days",
+      "Display": "1.28\" OLED",
+      "Water Resistance": "IP68 Waterproof",
+      "Material": "Anodized Aluminum"
+    },
+    "reviews": [
+      {
+        "id": "rev-73-1",
+        "user": "Alan T.",
+        "rating": 5,
+        "comment": "Very reliable. I have been using this daily for weeks now with zero issues.",
+        "date": "2026-06-20"
+      },
+      {
+        "id": "rev-73-2",
+        "user": "James G.",
+        "rating": 4,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-06"
+      }
+    ]
+  },
+  {
+    "id": "prod-74",
+    "name": "Matrix Premium Desk Mat",
+    "price": 295.8,
+    "description": "The Matrix Premium Desk Mat is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.9,
+    "reviewsCount": 34,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Connectivity": "Dual HDMI & DisplayPort",
+      "Weight": "15g",
+      "Interface": "Hot-swappable MX Switches",
+      "Material": "Double-shot PBT Plastic"
+    },
+    "reviews": [
+      {
+        "id": "rev-74-1",
+        "user": "Steve J.",
+        "rating": 5,
+        "comment": "Solid entry-level device. Offers everything you need at a budget-friendly price.",
+        "date": "2026-06-27"
+      }
+    ]
+  },
+  {
+    "id": "prod-75",
+    "name": "Stellar Studio Body Sensor",
+    "price": 72.36,
+    "description": "The Stellar Studio Body Sensor is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.5,
+    "reviewsCount": 221,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Water Resistance": "5 ATM (50m)",
+      "Sensors": "Heart Rate, Temp, Sleep Tracker",
+      "Material": "Hypoallergenic Polymer"
+    },
+    "reviews": [
+      {
+        "id": "rev-75-1",
+        "user": "Richard S.",
+        "rating": 5,
+        "comment": "Absolute game changer! Extremely high build quality and sleek packaging.",
+        "date": "2026-06-01"
+      }
+    ]
+  },
+  {
+    "id": "prod-76",
+    "name": "Apex Premium Vertical Stand",
+    "price": 131.96,
+    "description": "The Apex Premium Vertical Stand is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.1,
+    "reviewsCount": 244,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Weight": "15g",
+      "Connectivity": "USB-C Detachable Cable",
+      "Interface": "Opto-Mechanical",
+      "Material": "Tempered Glass"
+    },
+    "reviews": [
+      {
+        "id": "rev-76-1",
+        "user": "Ada L.",
+        "rating": 4,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-08"
+      },
+      {
+        "id": "rev-76-2",
+        "user": "Claude S.",
+        "rating": 4,
+        "comment": "Very reliable. I have been using this daily for weeks now with zero issues.",
+        "date": "2026-06-25"
+      }
+    ]
+  },
+  {
+    "id": "prod-77",
+    "name": "Titan Classic Security Camera",
+    "price": 177.95,
+    "description": "The Titan Classic Security Camera is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.4,
+    "reviewsCount": 99,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Power Source": "Hardwired 12V",
+      "Compatibility": "Standalone App Control",
+      "Weight": "90g"
+    },
+    "reviews": [
+      {
+        "id": "rev-77-1",
+        "user": "Guido R.",
+        "rating": 5,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-19"
+      },
+      {
+        "id": "rev-77-2",
+        "user": "Bjarne S.",
+        "rating": 4,
+        "comment": "Absolute game changer! Extremely high build quality and sleek packaging.",
+        "date": "2026-06-26"
+      }
+    ]
+  },
+  {
+    "id": "prod-78",
+    "name": "Aero Ultra Atmospheric Light",
+    "price": 179.81,
+    "description": "The Aero Ultra Atmospheric Light is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.5,
+    "reviewsCount": 60,
+    "inStock": true,
+    "featured": true,
+    "specs": {
+      "Power Source": "Hardwired 12V",
+      "Connectivity": "Thread Mesh System",
+      "Compatibility": "Google Home & Alexa",
+      "Weight": "220g"
+    },
+    "reviews": [
+      {
+        "id": "rev-78-1",
+        "user": "Linus T.",
+        "rating": 5,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-08"
+      }
+    ]
+  },
+  {
+    "id": "prod-79",
+    "name": "Vector Phantom Health Ring",
+    "price": 194.46,
+    "description": "The Vector Phantom Health Ring is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1539874754764-5a96559165b0?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.3,
+    "reviewsCount": 115,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 7 Days",
+      "Display": "1.43\" Always-On AMOLED",
+      "Water Resistance": "IP68 Waterproof",
+      "Sensors": "Heart Rate, SpO2, Accelerometer"
+    },
+    "reviews": [
+      {
+        "id": "rev-79-1",
+        "user": "Ada L.",
+        "rating": 4,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-04"
+      }
+    ]
+  },
+  {
+    "id": "prod-80",
+    "name": "Apex Titanium Voice Hub",
+    "price": 121.66,
+    "description": "The Apex Titanium Voice Hub is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1557862921-37829c790f19?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.6,
+    "reviewsCount": 260,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Power Source": "AC Wall Adapter",
+      "Compatibility": "Google Home & Alexa",
+      "Weight": "180g"
+    },
+    "reviews": [
+      {
+        "id": "rev-80-1",
+        "user": "John M.",
+        "rating": 5,
+        "comment": "Perfect addition to my hardware catalog collection. Seamless REST synchronization.",
+        "date": "2026-06-21"
+      },
+      {
+        "id": "rev-80-2",
+        "user": "Alan T.",
+        "rating": 5,
+        "comment": "Perfect addition to my hardware catalog collection. Seamless REST synchronization.",
+        "date": "2026-06-02"
+      }
+    ]
+  },
+  {
+    "id": "prod-81",
+    "name": "Quantum Titanium Ambient Speaker",
+    "price": 349.18,
+    "description": "The Quantum Titanium Ambient Speaker is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "audio",
+    "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.6,
+    "reviewsCount": 280,
+    "inStock": true,
+    "featured": true,
+    "specs": {
+      "Battery Life": "8 Hours (32 w/ Case)",
+      "Drivers": "Dual Balanced Armature",
+      "Weight": "1.5kg",
+      "Water Resistance": "IPX7 Waterproof"
+    },
+    "reviews": [
+      {
+        "id": "rev-81-1",
+        "user": "Margaret H.",
+        "rating": 4,
+        "comment": "A bit smaller than expected, but features are outstanding.",
+        "date": "2026-06-13"
+      }
+    ]
+  },
+  {
+    "id": "prod-82",
+    "name": "Apex Pro Soundbar",
+    "price": 34.68,
+    "description": "The Apex Pro Soundbar is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "audio",
+    "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=600&q=80",
+    "rating": 5,
+    "reviewsCount": 216,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Drivers": "11mm Dynamic",
+      "Bluetooth": "Bluetooth 5.3",
+      "Weight": "1.5kg",
+      "Water Resistance": "IP68 Dustproof"
+    },
+    "reviews": [
+      {
+        "id": "rev-82-1",
+        "user": "James G.",
+        "rating": 5,
+        "comment": "Excellent response times and integration with my other developer setups.",
+        "date": "2026-06-24"
+      }
+    ]
+  },
+  {
+    "id": "prod-83",
+    "name": "Core Prime Sleep Band",
+    "price": 254.51,
+    "description": "The Core Prime Sleep Band is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.3,
+    "reviewsCount": 129,
+    "inStock": false,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 14 Days",
+      "Water Resistance": "10 ATM (100m)",
+      "Sensors": "Heart Rate, Temp, Sleep Tracker"
+    },
+    "reviews": [
+      {
+        "id": "rev-83-1",
+        "user": "Grace H.",
+        "rating": 4,
+        "comment": "Absolute game changer! Extremely high build quality and sleek packaging.",
+        "date": "2026-06-20"
+      },
+      {
+        "id": "rev-83-2",
+        "user": "Alan T.",
+        "rating": 4,
+        "comment": "Decent performance but setup was slightly complicated. Still highly recommend.",
+        "date": "2026-06-06"
+      }
+    ]
+  },
+  {
+    "id": "prod-84",
+    "name": "Aether Phantom Body Sensor",
+    "price": 195.51,
+    "description": "The Aether Phantom Body Sensor is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1539874754764-5a96559165b0?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.9,
+    "reviewsCount": 84,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 10 Days",
+      "Display": "No Screen (App Only)",
+      "Water Resistance": "IP68 Waterproof",
+      "Material": "Anodized Aluminum"
+    },
+    "reviews": [
+      {
+        "id": "rev-84-1",
+        "user": "Ken T.",
+        "rating": 4,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-02"
+      },
+      {
+        "id": "rev-84-2",
+        "user": "Tim B.",
+        "rating": 4,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-27"
+      }
+    ]
+  },
+  {
+    "id": "prod-85",
+    "name": "Matrix Max Sleep Band",
+    "price": 174.99,
+    "description": "The Matrix Max Sleep Band is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.9,
+    "reviewsCount": 278,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 7 Days",
+      "Display": "No Screen (App Only)",
+      "Water Resistance": "3 ATM",
+      "Sensors": "ECG, Blood Oxygen, Accelerometer, Gyroscope",
+      "Material": "Anodized Aluminum"
+    },
+    "reviews": [
+      {
+        "id": "rev-85-1",
+        "user": "Tim B.",
+        "rating": 4,
+        "comment": "Decent performance but setup was slightly complicated. Still highly recommend.",
+        "date": "2026-06-15"
+      }
+    ]
+  },
+  {
+    "id": "prod-86",
+    "name": "Zenith Prime DAC Amplifier",
+    "price": 188.34,
+    "description": "The Zenith Prime DAC Amplifier is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "audio",
+    "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.6,
+    "reviewsCount": 219,
+    "inStock": true,
+    "featured": true,
+    "specs": {
+      "Bluetooth": "Wi-Fi & BT Dual Connection",
+      "Weight": "6.1g per earbud",
+      "Water Resistance": "IP68 Dustproof"
+    },
+    "reviews": [
+      {
+        "id": "rev-86-1",
+        "user": "Guido R.",
+        "rating": 4,
+        "comment": "Absolute game changer! Extremely high build quality and sleek packaging.",
+        "date": "2026-06-26"
+      }
+    ]
+  },
+  {
+    "id": "prod-87",
+    "name": "Matrix Active Wrist Rest",
+    "price": 24.04,
+    "description": "The Matrix Active Wrist Rest is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.2,
+    "reviewsCount": 286,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Connectivity": "USB-C 90W Pass-through",
+      "Weight": "120g",
+      "Interface": "Opto-Mechanical"
+    },
+    "reviews": [
+      {
+        "id": "rev-87-1",
+        "user": "Bill G.",
+        "rating": 4,
+        "comment": "Decent performance but setup was slightly complicated. Still highly recommend.",
+        "date": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "id": "prod-88",
+    "name": "Vortex Classic Fitness Tracker",
+    "price": 62.87,
+    "description": "The Vortex Classic Fitness Tracker is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.5,
+    "reviewsCount": 93,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 7 Days",
+      "Display": "1.43\" Always-On AMOLED",
+      "Water Resistance": "3 ATM",
+      "Sensors": "ECG, Blood Oxygen, Accelerometer, Gyroscope"
+    },
+    "reviews": [
+      {
+        "id": "rev-88-1",
+        "user": "Grace H.",
+        "rating": 5,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-02"
+      }
+    ]
+  },
+  {
+    "id": "prod-89",
+    "name": "Luna Pro Smart Panel Set",
+    "price": 107.58,
+    "description": "The Luna Pro Smart Panel Set is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.8,
+    "reviewsCount": 98,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Power Source": "Hardwired 12V",
+      "Connectivity": "Wi-Fi 2.4GHz & 5GHz",
+      "Compatibility": "Matter Certified Hubs",
+      "Weight": "220g"
+    },
+    "reviews": [
+      {
+        "id": "rev-89-1",
+        "user": "Grace H.",
+        "rating": 4,
+        "comment": "Decent performance but setup was slightly complicated. Still highly recommend.",
+        "date": "2026-06-19"
+      }
+    ]
+  },
+  {
+    "id": "prod-90",
+    "name": "Zenith Prime Earbuds",
+    "price": 345.44,
+    "description": "The Zenith Prime Earbuds is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "audio",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.6,
+    "reviewsCount": 24,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Weight": "5.2g per earbud",
+      "Water Resistance": "IPX7 Waterproof"
+    },
+    "reviews": [
+      {
+        "id": "rev-90-1",
+        "user": "John M.",
+        "rating": 4,
+        "comment": "Very reliable. I have been using this daily for weeks now with zero issues.",
+        "date": "2026-06-08"
+      },
+      {
+        "id": "rev-90-2",
+        "user": "Ada L.",
+        "rating": 5,
+        "comment": "Perfect addition to my hardware catalog collection. Seamless REST synchronization.",
+        "date": "2026-06-06"
+      }
+    ]
+  },
+  {
+    "id": "prod-91",
+    "name": "Luna Pro Smartwatch",
+    "price": 49.78,
+    "description": "The Luna Pro Smartwatch is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.9,
+    "reviewsCount": 161,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 7 Days",
+      "Display": "No Screen (App Only)",
+      "Sensors": "Heart Rate, Temp, Sleep Tracker",
+      "Material": "Hypoallergenic Polymer"
+    },
+    "reviews": [
+      {
+        "id": "rev-91-1",
+        "user": "Linus T.",
+        "rating": 4,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-23"
+      },
+      {
+        "id": "rev-91-2",
+        "user": "Dennis R.",
+        "rating": 5,
+        "comment": "Perfect addition to my hardware catalog collection. Seamless REST synchronization.",
+        "date": "2026-06-15"
+      }
+    ]
+  },
+  {
+    "id": "prod-92",
+    "name": "Sol Ultra Vertical Stand",
+    "price": 394.41,
+    "description": "The Sol Ultra Vertical Stand is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.1,
+    "reviewsCount": 292,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Connectivity": "USB-C Detachable Cable",
+      "Weight": "350g",
+      "Interface": "Bluetooth Multi-Device",
+      "Material": "Tempered Glass"
+    },
+    "reviews": [
+      {
+        "id": "rev-92-1",
+        "user": "Linus T.",
+        "rating": 5,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-12"
+      }
+    ]
+  },
+  {
+    "id": "prod-93",
+    "name": "Core Premium Desk Lamp",
+    "price": 372.31,
+    "description": "The Core Premium Desk Lamp is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.7,
+    "reviewsCount": 288,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Connectivity": "USB-C Detachable Cable",
+      "Weight": "4.2kg",
+      "Interface": "Hot-swappable MX Switches",
+      "Material": "Double-shot PBT Plastic"
+    },
+    "reviews": [
+      {
+        "id": "rev-93-1",
+        "user": "Ada L.",
+        "rating": 5,
+        "comment": "A bit smaller than expected, but features are outstanding.",
+        "date": "2026-06-28"
+      },
+      {
+        "id": "rev-93-2",
+        "user": "Dennis R.",
+        "rating": 4,
+        "comment": "A bit smaller than expected, but features are outstanding.",
+        "date": "2026-06-10"
+      }
+    ]
+  },
+  {
+    "id": "prod-94",
+    "name": "Nova Active Fitness Tracker",
+    "price": 276.35,
+    "description": "The Nova Active Fitness Tracker is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1539874754764-5a96559165b0?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.4,
+    "reviewsCount": 75,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 6 Days",
+      "Display": "0.96\" Color LCD",
+      "Water Resistance": "10 ATM (100m)",
+      "Material": "Anodized Aluminum"
+    },
+    "reviews": [
+      {
+        "id": "rev-94-1",
+        "user": "Ken T.",
+        "rating": 5,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-13"
+      }
+    ]
+  },
+  {
+    "id": "prod-95",
+    "name": "Echo Signature Smart Eyewear",
+    "price": 170.84,
+    "description": "The Echo Signature Smart Eyewear is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.9,
+    "reviewsCount": 180,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 10 Days",
+      "Display": "0.96\" Color LCD",
+      "Water Resistance": "10 ATM (100m)",
+      "Sensors": "Heart Rate, Temp, Sleep Tracker",
+      "Material": "Titanium Alloy"
+    },
+    "reviews": [
+      {
+        "id": "rev-95-1",
+        "user": "Donald K.",
+        "rating": 4,
+        "comment": "Solid entry-level device. Offers everything you need at a budget-friendly price.",
+        "date": "2026-06-27"
+      },
+      {
+        "id": "rev-95-2",
+        "user": "John M.",
+        "rating": 4,
+        "comment": "Decent performance but setup was slightly complicated. Still highly recommend.",
+        "date": "2026-06-08"
+      }
+    ]
+  },
+  {
+    "id": "prod-96",
+    "name": "Aether Elite Ergonomic Mouse",
+    "price": 204.46,
+    "description": "The Aether Elite Ergonomic Mouse is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.5,
+    "reviewsCount": 185,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Connectivity": "USB-C Detachable Cable",
+      "Weight": "120g",
+      "Interface": "Hot-swappable MX Switches",
+      "Material": "Eco-friendly Bamboo"
+    },
+    "reviews": [
+      {
+        "id": "rev-96-1",
+        "user": "Dennis R.",
+        "rating": 4,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-16"
+      }
+    ]
+  },
+  {
+    "id": "prod-97",
+    "name": "Core Prime Smart Panel Set",
+    "price": 229.78,
+    "description": "The Core Prime Smart Panel Set is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.2,
+    "reviewsCount": 287,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Power Source": "Rechargeable Lithium Battery",
+      "Connectivity": "Wi-Fi 2.4GHz & 5GHz"
+    },
+    "reviews": [
+      {
+        "id": "rev-97-1",
+        "user": "James G.",
+        "rating": 4,
+        "comment": "Absolute game changer! Extremely high build quality and sleek packaging.",
+        "date": "2026-06-21"
+      },
+      {
+        "id": "rev-97-2",
+        "user": "Richard S.",
+        "rating": 4,
+        "comment": "Excellent response times and integration with my other developer setups.",
+        "date": "2026-06-11"
+      }
+    ]
+  },
+  {
+    "id": "prod-98",
+    "name": "Pulse Premium Health Ring",
+    "price": 139.53,
+    "description": "The Pulse Premium Health Ring is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.9,
+    "reviewsCount": 236,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 7 Days",
+      "Display": "1.43\" Always-On AMOLED",
+      "Material": "Ceramic & Glass"
+    },
+    "reviews": [
+      {
+        "id": "rev-98-1",
+        "user": "Claude S.",
+        "rating": 4,
+        "comment": "Very reliable. I have been using this daily for weeks now with zero issues.",
+        "date": "2026-06-16"
+      },
+      {
+        "id": "rev-98-2",
+        "user": "Alan T.",
+        "rating": 5,
+        "comment": "Very reliable. I have been using this daily for weeks now with zero issues.",
+        "date": "2026-06-09"
+      }
+    ]
+  },
+  {
+    "id": "prod-99",
+    "name": "Spectre Phantom Curved Monitor",
+    "price": 313.33,
+    "description": "The Spectre Phantom Curved Monitor is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.5,
+    "reviewsCount": 244,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Connectivity": "USB-C 90W Pass-through",
+      "Interface": "Opto-Mechanical",
+      "Material": "Premium Felt"
+    },
+    "reviews": [
+      {
+        "id": "rev-99-1",
+        "user": "Ken T.",
+        "rating": 5,
+        "comment": "A bit smaller than expected, but features are outstanding.",
+        "date": "2026-06-23"
+      }
+    ]
+  },
+  {
+    "id": "prod-100",
+    "name": "Nova Titanium Atmospheric Light",
+    "price": 42.67,
+    "description": "The Nova Titanium Atmospheric Light is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1557862921-37829c790f19?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.6,
+    "reviewsCount": 207,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Compatibility": "Google Home & Alexa",
+      "Weight": "180g"
+    },
+    "reviews": [
+      {
+        "id": "rev-100-1",
+        "user": "Donald K.",
+        "rating": 5,
+        "comment": "Decent performance but setup was slightly complicated. Still highly recommend.",
+        "date": "2026-06-03"
+      }
+    ]
+  },
+  {
+    "id": "prod-101",
+    "name": "Core Pro Atmospheric Light",
+    "price": 111.01,
+    "description": "The Core Pro Atmospheric Light is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1565814636199-ae8133055c1c?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.4,
+    "reviewsCount": 16,
+    "inStock": true,
+    "featured": true,
+    "specs": {
+      "Power Source": "Rechargeable Lithium Battery",
+      "Connectivity": "Bluetooth LE",
+      "Compatibility": "Standalone App Control",
+      "Weight": "1.1kg"
+    },
+    "reviews": [
+      {
+        "id": "rev-101-1",
+        "user": "Guido R.",
+        "rating": 4,
+        "comment": "Decent performance but setup was slightly complicated. Still highly recommend.",
+        "date": "2026-06-04"
+      },
+      {
+        "id": "rev-101-2",
+        "user": "John M.",
+        "rating": 4,
+        "comment": "Perfect addition to my hardware catalog collection. Seamless REST synchronization.",
+        "date": "2026-06-23"
+      }
+    ]
+  },
+  {
+    "id": "prod-102",
+    "name": "Stellar Ultra Security Camera",
+    "price": 115.07,
+    "description": "The Stellar Ultra Security Camera is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.7,
+    "reviewsCount": 77,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Power Source": "USB-C DC input",
+      "Connectivity": "Thread Mesh System",
+      "Compatibility": "Alexa, Google Assistant, Apple HomeKit",
+      "Weight": "180g"
+    },
+    "reviews": [
+      {
+        "id": "rev-102-1",
+        "user": "Margaret H.",
+        "rating": 4,
+        "comment": "Decent performance but setup was slightly complicated. Still highly recommend.",
+        "date": "2026-06-21"
+      },
+      {
+        "id": "rev-102-2",
+        "user": "Ken T.",
+        "rating": 4,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-04"
+      }
+    ]
+  },
+  {
+    "id": "prod-103",
+    "name": "Core Studio Curved Monitor",
+    "price": 562.3,
+    "description": "The Core Studio Curved Monitor is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?auto=format&fit=crop&w=600&q=80",
+    "rating": 5,
+    "reviewsCount": 70,
+    "inStock": false,
+    "featured": false,
+    "specs": {
+      "Weight": "15g",
+      "Interface": "Hot-swappable MX Switches",
+      "Material": "Eco-friendly Bamboo"
+    },
+    "reviews": [
+      {
+        "id": "rev-103-1",
+        "user": "Bill G.",
+        "rating": 4,
+        "comment": "Excellent response times and integration with my other developer setups.",
+        "date": "2026-06-18"
+      }
+    ]
+  },
+  {
+    "id": "prod-104",
+    "name": "Vortex Titanium Fitness Tracker",
+    "price": 62.75,
+    "description": "The Vortex Titanium Fitness Tracker is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1539874754764-5a96559165b0?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.9,
+    "reviewsCount": 115,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 10 Days",
+      "Display": "1.28\" OLED",
+      "Water Resistance": "IP68 Waterproof",
+      "Sensors": "Heart Rate, SpO2, Accelerometer"
+    },
+    "reviews": [
+      {
+        "id": "rev-104-1",
+        "user": "John M.",
+        "rating": 5,
+        "comment": "Decent performance but setup was slightly complicated. Still highly recommend.",
+        "date": "2026-06-11"
+      },
+      {
+        "id": "rev-104-2",
+        "user": "Ada L.",
+        "rating": 4,
+        "comment": "Very reliable. I have been using this daily for weeks now with zero issues.",
+        "date": "2026-06-19"
+      }
+    ]
+  },
+  {
+    "id": "prod-105",
+    "name": "Pulse Ultra Desk Mat",
+    "price": 232.05,
+    "description": "The Pulse Ultra Desk Mat is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.6,
+    "reviewsCount": 275,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Connectivity": "USB-C Detachable Cable",
+      "Weight": "120g",
+      "Interface": "Plug & Play USB",
+      "Material": "Double-shot PBT Plastic"
+    },
+    "reviews": [
+      {
+        "id": "rev-105-1",
+        "user": "Dennis R.",
+        "rating": 5,
+        "comment": "Absolute game changer! Extremely high build quality and sleek packaging.",
+        "date": "2026-06-05"
+      },
+      {
+        "id": "rev-105-2",
+        "user": "Alan T.",
+        "rating": 4,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-12"
+      }
+    ]
+  },
+  {
+    "id": "prod-106",
+    "name": "Quantum Pro Studio Monitor",
+    "price": 51.71,
+    "description": "The Quantum Pro Studio Monitor is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "audio",
+    "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.4,
+    "reviewsCount": 59,
+    "inStock": true,
+    "featured": true,
+    "specs": {
+      "Battery Life": "8 Hours (32 w/ Case)",
+      "Bluetooth": "Bluetooth 5.3",
+      "Weight": "6.1g per earbud",
+      "Water Resistance": "IP68 Dustproof"
+    },
+    "reviews": [
+      {
+        "id": "rev-106-1",
+        "user": "Bjarne S.",
+        "rating": 5,
+        "comment": "Excellent response times and integration with my other developer setups.",
+        "date": "2026-06-18"
+      },
+      {
+        "id": "rev-106-2",
+        "user": "Ken T.",
+        "rating": 4,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-25"
+      }
+    ]
+  },
+  {
+    "id": "prod-107",
+    "name": "Matrix Titanium Soundbar",
+    "price": 124.36,
+    "description": "The Matrix Titanium Soundbar is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "audio",
+    "image": "https://images.unsplash.com/photo-1487215078519-e21cc028cb29?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.8,
+    "reviewsCount": 66,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "8 Hours (32 w/ Case)",
+      "Drivers": "40mm Custom Dynamic",
+      "Bluetooth": "Wi-Fi & BT Dual Connection",
+      "Weight": "6.1g per earbud",
+      "Water Resistance": "None"
+    },
+    "reviews": [
+      {
+        "id": "rev-107-1",
+        "user": "Dennis R.",
+        "rating": 4,
+        "comment": "Decent performance but setup was slightly complicated. Still highly recommend.",
+        "date": "2026-06-08"
+      },
+      {
+        "id": "rev-107-2",
+        "user": "Bjarne S.",
+        "rating": 5,
+        "comment": "Perfect addition to my hardware catalog collection. Seamless REST synchronization.",
+        "date": "2026-06-14"
+      }
+    ]
+  },
+  {
+    "id": "prod-108",
+    "name": "Aether Ultra Smart Eyewear",
+    "price": 74.58,
+    "description": "The Aether Ultra Smart Eyewear is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.6,
+    "reviewsCount": 155,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 7 Days",
+      "Display": "0.96\" Color LCD",
+      "Sensors": "Heart Rate, Temp, Sleep Tracker",
+      "Material": "Hypoallergenic Polymer"
+    },
+    "reviews": [
+      {
+        "id": "rev-108-1",
+        "user": "Steve J.",
+        "rating": 4,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "id": "prod-109",
+    "name": "Zenith Premium Home Controller",
+    "price": 75.51,
+    "description": "The Zenith Premium Home Controller is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.9,
+    "reviewsCount": 18,
+    "inStock": true,
+    "featured": true,
+    "specs": {
+      "Power Source": "AC Wall Adapter",
+      "Connectivity": "Thread Mesh System",
+      "Compatibility": "Alexa, Google Assistant, Apple HomeKit",
+      "Weight": "90g"
+    },
+    "reviews": [
+      {
+        "id": "rev-109-1",
+        "user": "Steve J.",
+        "rating": 5,
+        "comment": "Perfect addition to my hardware catalog collection. Seamless REST synchronization.",
+        "date": "2026-06-02"
+      }
+    ]
+  },
+  {
+    "id": "prod-110",
+    "name": "Luna Active Laptop Dock",
+    "price": 140.27,
+    "description": "The Luna Active Laptop Dock is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=600&q=80",
+    "rating": 5,
+    "reviewsCount": 40,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Connectivity": "USB-C Detachable Cable",
+      "Weight": "4.2kg",
+      "Material": "Tempered Glass"
+    },
+    "reviews": [
+      {
+        "id": "rev-110-1",
+        "user": "Dennis R.",
+        "rating": 4,
+        "comment": "Solid entry-level device. Offers everything you need at a budget-friendly price.",
+        "date": "2026-06-25"
+      }
+    ]
+  },
+  {
+    "id": "prod-111",
+    "name": "Krypton Lite Atmospheric Light",
+    "price": 72.01,
+    "description": "The Krypton Lite Atmospheric Light is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1565814636199-ae8133055c1c?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.7,
+    "reviewsCount": 117,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Power Source": "Hardwired 12V",
+      "Connectivity": "Zigbee & Matter Protocol",
+      "Compatibility": "Standalone App Control",
+      "Weight": "450g"
+    },
+    "reviews": [
+      {
+        "id": "rev-111-1",
+        "user": "Richard S.",
+        "rating": 4,
+        "comment": "Very reliable. I have been using this daily for weeks now with zero issues.",
+        "date": "2026-06-26"
+      },
+      {
+        "id": "rev-111-2",
+        "user": "Ken T.",
+        "rating": 5,
+        "comment": "Excellent response times and integration with my other developer setups.",
+        "date": "2026-06-27"
+      }
+    ]
+  },
+  {
+    "id": "prod-112",
+    "name": "Vector Lite Smartwatch",
+    "price": 184.47,
+    "description": "The Vector Lite Smartwatch is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.7,
+    "reviewsCount": 165,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 14 Days",
+      "Water Resistance": "3 ATM",
+      "Sensors": "Heart Rate, SpO2, Accelerometer",
+      "Material": "Anodized Aluminum"
+    },
+    "reviews": [
+      {
+        "id": "rev-112-1",
+        "user": "Donald K.",
+        "rating": 5,
+        "comment": "Excellent response times and integration with my other developer setups.",
+        "date": "2026-06-28"
+      },
+      {
+        "id": "rev-112-2",
+        "user": "Bjarne S.",
+        "rating": 4,
+        "comment": "Solid entry-level device. Offers everything you need at a budget-friendly price.",
+        "date": "2026-06-06"
+      }
+    ]
+  },
+  {
+    "id": "prod-113",
+    "name": "Echo Active Smart Eyewear",
+    "price": 93.53,
+    "description": "The Echo Active Smart Eyewear is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.6,
+    "reviewsCount": 119,
+    "inStock": false,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 24 Hours",
+      "Water Resistance": "IP68 Waterproof",
+      "Material": "Ceramic & Glass"
+    },
+    "reviews": [
+      {
+        "id": "rev-113-1",
+        "user": "Alan T.",
+        "rating": 4,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-04"
+      },
+      {
+        "id": "rev-113-2",
+        "user": "John M.",
+        "rating": 5,
+        "comment": "Perfect addition to my hardware catalog collection. Seamless REST synchronization.",
+        "date": "2026-06-04"
+      }
+    ]
+  },
+  {
+    "id": "prod-114",
+    "name": "Vector Prime Sleep Band",
+    "price": 227.86,
+    "description": "The Vector Prime Sleep Band is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1539874754764-5a96559165b0?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.3,
+    "reviewsCount": 78,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Display": "No Screen (App Only)",
+      "Water Resistance": "5 ATM (50m)",
+      "Sensors": "Activity tracking only",
+      "Material": "Ceramic & Glass"
+    },
+    "reviews": [
+      {
+        "id": "rev-114-1",
+        "user": "Ada L.",
+        "rating": 5,
+        "comment": "Excellent response times and integration with my other developer setups.",
+        "date": "2026-06-17"
+      },
+      {
+        "id": "rev-114-2",
+        "user": "Ken T.",
+        "rating": 4,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-06"
+      }
+    ]
+  },
+  {
+    "id": "prod-115",
+    "name": "Pulse Active Ergonomic Mouse",
+    "price": 323.66,
+    "description": "The Pulse Active Ergonomic Mouse is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.9,
+    "reviewsCount": 247,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Weight": "120g",
+      "Interface": "Standard ANSI",
+      "Material": "Premium Felt"
+    },
+    "reviews": [
+      {
+        "id": "rev-115-1",
+        "user": "Margaret H.",
+        "rating": 5,
+        "comment": "Very reliable. I have been using this daily for weeks now with zero issues.",
+        "date": "2026-06-10"
+      }
+    ]
+  },
+  {
+    "id": "prod-116",
+    "name": "Sol Active Laptop Dock",
+    "price": 123.27,
+    "description": "The Sol Active Laptop Dock is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.8,
+    "reviewsCount": 118,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Connectivity": "Dual HDMI & DisplayPort",
+      "Weight": "720g"
+    },
+    "reviews": [
+      {
+        "id": "rev-116-1",
+        "user": "Bjarne S.",
+        "rating": 4,
+        "comment": "Absolute game changer! Extremely high build quality and sleek packaging.",
+        "date": "2026-06-10"
+      }
+    ]
+  },
+  {
+    "id": "prod-117",
+    "name": "Vortex Studio Desk Lamp",
+    "price": 121.92,
+    "description": "The Vortex Studio Desk Lamp is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.9,
+    "reviewsCount": 261,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Connectivity": "USB-C 90W Pass-through",
+      "Weight": "850g"
+    },
+    "reviews": [
+      {
+        "id": "rev-117-1",
+        "user": "Steve J.",
+        "rating": 4,
+        "comment": "Very reliable. I have been using this daily for weeks now with zero issues.",
+        "date": "2026-06-11"
+      },
+      {
+        "id": "rev-117-2",
+        "user": "Dennis R.",
+        "rating": 5,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-18"
+      }
+    ]
+  },
+  {
+    "id": "prod-118",
+    "name": "Zenith Lite Ergonomic Mouse",
+    "price": 354.72,
+    "description": "The Zenith Lite Ergonomic Mouse is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.3,
+    "reviewsCount": 114,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Connectivity": "USB-C Detachable Cable",
+      "Interface": "Hot-swappable MX Switches",
+      "Material": "Tempered Glass"
+    },
+    "reviews": [
+      {
+        "id": "rev-118-1",
+        "user": "Dennis R.",
+        "rating": 5,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-22"
+      },
+      {
+        "id": "rev-118-2",
+        "user": "Tim B.",
+        "rating": 5,
+        "comment": "Solid entry-level device. Offers everything you need at a budget-friendly price.",
+        "date": "2026-06-19"
+      }
+    ]
+  },
+  {
+    "id": "prod-119",
+    "name": "Sol Max Type-C Hub",
+    "price": 456.38,
+    "description": "The Sol Max Type-C Hub is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.7,
+    "reviewsCount": 229,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Connectivity": "Dual HDMI & DisplayPort",
+      "Interface": "Standard ANSI",
+      "Material": "Double-shot PBT Plastic"
+    },
+    "reviews": [
+      {
+        "id": "rev-119-1",
+        "user": "Claude S.",
+        "rating": 5,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-01"
+      },
+      {
+        "id": "rev-119-2",
+        "user": "Grace H.",
+        "rating": 4,
+        "comment": "Perfect addition to my hardware catalog collection. Seamless REST synchronization.",
+        "date": "2026-06-24"
+      }
+    ]
+  },
+  {
+    "id": "prod-120",
+    "name": "Core Max Earbuds",
+    "price": 333.84,
+    "description": "The Core Max Earbuds is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "audio",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.6,
+    "reviewsCount": 48,
+    "inStock": false,
+    "featured": false,
+    "specs": {
+      "Drivers": "50mm Beryllium",
+      "Weight": "280g",
+      "Water Resistance": "IPX7 Waterproof"
+    },
+    "reviews": [
+      {
+        "id": "rev-120-1",
+        "user": "Donald K.",
+        "rating": 4,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-19"
+      },
+      {
+        "id": "rev-120-2",
+        "user": "Bill G.",
+        "rating": 4,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-12"
+      }
+    ]
+  },
+  {
+    "id": "prod-121",
+    "name": "Vector Signature Mechanical Keyboard",
+    "price": 170.92,
+    "description": "The Vector Signature Mechanical Keyboard is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.9,
+    "reviewsCount": 195,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Connectivity": "Dual HDMI & DisplayPort",
+      "Weight": "4.2kg",
+      "Interface": "Standard ANSI",
+      "Material": "Tempered Glass"
+    },
+    "reviews": [
+      {
+        "id": "rev-121-1",
+        "user": "Tim B.",
+        "rating": 5,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-11"
+      }
+    ]
+  },
+  {
+    "id": "prod-122",
+    "name": "Krypton Titanium Body Sensor",
+    "price": 207.11,
+    "description": "The Krypton Titanium Body Sensor is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.2,
+    "reviewsCount": 80,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Display": "1.28\" OLED",
+      "Water Resistance": "IP68 Waterproof",
+      "Sensors": "ECG, Blood Oxygen, Accelerometer, Gyroscope",
+      "Material": "Titanium Alloy"
+    },
+    "reviews": [
+      {
+        "id": "rev-122-1",
+        "user": "Margaret H.",
+        "rating": 5,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-15"
+      }
+    ]
+  },
+  {
+    "id": "prod-123",
+    "name": "Titan Max Curved Monitor",
+    "price": 237.71,
+    "description": "The Titan Max Curved Monitor is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.7,
+    "reviewsCount": 77,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Connectivity": "USB-C Detachable Cable",
+      "Weight": "4.2kg",
+      "Material": "Premium Felt"
+    },
+    "reviews": [
+      {
+        "id": "rev-123-1",
+        "user": "Steve J.",
+        "rating": 4,
+        "comment": "A bit smaller than expected, but features are outstanding.",
+        "date": "2026-06-11"
+      }
+    ]
+  },
+  {
+    "id": "prod-124",
+    "name": "Titan Titanium Sensors Pack",
+    "price": 231.41,
+    "description": "The Titan Titanium Sensors Pack is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.5,
+    "reviewsCount": 279,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Compatibility": "Google Home & Alexa",
+      "Power Source": "Rechargeable Lithium Battery",
+      "Connectivity": "Bluetooth LE",
+      "Weight": "450g"
+    },
+    "reviews": [
+      {
+        "id": "rev-124-1",
+        "user": "Grace H.",
+        "rating": 4,
+        "comment": "Solid entry-level device. Offers everything you need at a budget-friendly price.",
+        "date": "2026-06-07"
+      }
+    ]
+  },
+  {
+    "id": "prod-125",
+    "name": "Spectre Lite Subwoofer",
+    "price": 353.13,
+    "description": "The Spectre Lite Subwoofer is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "audio",
+    "image": "https://images.unsplash.com/photo-1487215078519-e21cc028cb29?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.3,
+    "reviewsCount": 172,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 40 Hours",
+      "Drivers": "50mm Beryllium",
+      "Bluetooth": "Wi-Fi & BT Dual Connection",
+      "Water Resistance": "None"
+    },
+    "reviews": [
+      {
+        "id": "rev-125-1",
+        "user": "Dennis R.",
+        "rating": 5,
+        "comment": "Very reliable. I have been using this daily for weeks now with zero issues.",
+        "date": "2026-06-20"
+      },
+      {
+        "id": "rev-125-2",
+        "user": "Alan T.",
+        "rating": 5,
+        "comment": "Decent performance but setup was slightly complicated. Still highly recommend.",
+        "date": "2026-06-23"
+      }
+    ]
+  },
+  {
+    "id": "prod-126",
+    "name": "Echo Elite Sport Bracelet",
+    "price": 248.3,
+    "description": "The Echo Elite Sport Bracelet is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.5,
+    "reviewsCount": 80,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 14 Days",
+      "Display": "No Screen (App Only)",
+      "Water Resistance": "10 ATM (100m)",
+      "Sensors": "Activity tracking only",
+      "Material": "Anodized Aluminum"
+    },
+    "reviews": [
+      {
+        "id": "rev-126-1",
+        "user": "James G.",
+        "rating": 4,
+        "comment": "Decent performance but setup was slightly complicated. Still highly recommend.",
+        "date": "2026-06-15"
+      },
+      {
+        "id": "rev-126-2",
+        "user": "Steve J.",
+        "rating": 5,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-19"
+      }
+    ]
+  },
+  {
+    "id": "prod-127",
+    "name": "Matrix Elite Sleep Band",
+    "price": 232.68,
+    "description": "The Matrix Elite Sleep Band is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.5,
+    "reviewsCount": 84,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 7 Days",
+      "Display": "No Screen (App Only)",
+      "Water Resistance": "IP68 Waterproof",
+      "Sensors": "Heart Rate, SpO2, Accelerometer",
+      "Material": "Ceramic & Glass"
+    },
+    "reviews": [
+      {
+        "id": "rev-127-1",
+        "user": "Guido R.",
+        "rating": 5,
+        "comment": "Very reliable. I have been using this daily for weeks now with zero issues.",
+        "date": "2026-06-28"
+      },
+      {
+        "id": "rev-127-2",
+        "user": "Margaret H.",
+        "rating": 5,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-04"
+      }
+    ]
+  },
+  {
+    "id": "prod-128",
+    "name": "Stellar Active Sensors Pack",
+    "price": 240.1,
+    "description": "The Stellar Active Sensors Pack is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.7,
+    "reviewsCount": 239,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Power Source": "USB-C DC input",
+      "Connectivity": "Bluetooth LE",
+      "Compatibility": "Alexa, Google Assistant, Apple HomeKit",
+      "Weight": "1.1kg"
+    },
+    "reviews": [
+      {
+        "id": "rev-128-1",
+        "user": "Bill G.",
+        "rating": 5,
+        "comment": "A bit smaller than expected, but features are outstanding.",
+        "date": "2026-06-07"
+      }
+    ]
+  },
+  {
+    "id": "prod-129",
+    "name": "Aero Studio Voice Hub",
+    "price": 135.04,
+    "description": "The Aero Studio Voice Hub is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.4,
+    "reviewsCount": 108,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Power Source": "AC Wall Adapter",
+      "Connectivity": "Zigbee & Matter Protocol",
+      "Compatibility": "Matter Certified Hubs",
+      "Weight": "90g"
+    },
+    "reviews": [
+      {
+        "id": "rev-129-1",
+        "user": "John M.",
+        "rating": 5,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-28"
+      },
+      {
+        "id": "rev-129-2",
+        "user": "James G.",
+        "rating": 5,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-12"
+      }
+    ]
+  },
+  {
+    "id": "prod-130",
+    "name": "Zenith Hybrid Body Sensor",
+    "price": 140.63,
+    "description": "The Zenith Hybrid Body Sensor is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.3,
+    "reviewsCount": 45,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 6 Days",
+      "Display": "0.96\" Color LCD",
+      "Water Resistance": "10 ATM (100m)",
+      "Sensors": "Heart Rate, Temp, Sleep Tracker",
+      "Material": "Hypoallergenic Polymer"
+    },
+    "reviews": [
+      {
+        "id": "rev-130-1",
+        "user": "Margaret H.",
+        "rating": 4,
+        "comment": "Very reliable. I have been using this daily for weeks now with zero issues.",
+        "date": "2026-06-07"
+      }
+    ]
+  },
+  {
+    "id": "prod-131",
+    "name": "Aether Signature Smart Eyewear",
+    "price": 249.32,
+    "description": "The Aether Signature Smart Eyewear is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.2,
+    "reviewsCount": 40,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Display": "No Screen (App Only)",
+      "Water Resistance": "3 ATM",
+      "Material": "Titanium Alloy"
+    },
+    "reviews": [
+      {
+        "id": "rev-131-1",
+        "user": "James G.",
+        "rating": 5,
+        "comment": "Decent performance but setup was slightly complicated. Still highly recommend.",
+        "date": "2026-06-01"
+      }
+    ]
+  },
+  {
+    "id": "prod-132",
+    "name": "Vortex Hybrid Sensors Pack",
+    "price": 95.41,
+    "description": "The Vortex Hybrid Sensors Pack is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.9,
+    "reviewsCount": 187,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Power Source": "Hardwired 12V",
+      "Connectivity": "Thread Mesh System",
+      "Compatibility": "Matter Certified Hubs",
+      "Weight": "180g"
+    },
+    "reviews": [
+      {
+        "id": "rev-132-1",
+        "user": "Ada L.",
+        "rating": 4,
+        "comment": "Decent performance but setup was slightly complicated. Still highly recommend.",
+        "date": "2026-06-19"
+      },
+      {
+        "id": "rev-132-2",
+        "user": "Donald K.",
+        "rating": 4,
+        "comment": "Very reliable. I have been using this daily for weeks now with zero issues.",
+        "date": "2026-06-26"
+      }
+    ]
+  },
+  {
+    "id": "prod-133",
+    "name": "Krypton Ultra Mechanical Keyboard",
+    "price": 506.32,
+    "description": "The Krypton Ultra Mechanical Keyboard is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.7,
+    "reviewsCount": 105,
+    "inStock": true,
+    "featured": true,
+    "specs": {
+      "Connectivity": "USB-C Detachable Cable",
+      "Material": "Tempered Glass"
+    },
+    "reviews": [
+      {
+        "id": "rev-133-1",
+        "user": "Steve J.",
+        "rating": 4,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-06"
+      }
+    ]
+  },
+  {
+    "id": "prod-134",
+    "name": "Aero Max Fitness Tracker",
+    "price": 145.04,
+    "description": "The Aero Max Fitness Tracker is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1539874754764-5a96559165b0?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.6,
+    "reviewsCount": 168,
+    "inStock": true,
+    "featured": true,
+    "specs": {
+      "Battery Life": "Up to 7 Days",
+      "Water Resistance": "10 ATM (100m)",
+      "Sensors": "Heart Rate, Temp, Sleep Tracker",
+      "Material": "Ceramic & Glass"
+    },
+    "reviews": [
+      {
+        "id": "rev-134-1",
+        "user": "Ada L.",
+        "rating": 5,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-25"
+      }
+    ]
+  },
+  {
+    "id": "prod-135",
+    "name": "Aether Elite Sleep Band",
+    "price": 58.76,
+    "description": "The Aether Elite Sleep Band is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.5,
+    "reviewsCount": 116,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 14 Days",
+      "Display": "1.28\" OLED",
+      "Water Resistance": "IP68 Waterproof",
+      "Sensors": "Heart Rate, SpO2, Accelerometer",
+      "Material": "Titanium Alloy"
+    },
+    "reviews": [
+      {
+        "id": "rev-135-1",
+        "user": "Guido R.",
+        "rating": 4,
+        "comment": "Absolute game changer! Extremely high build quality and sleek packaging.",
+        "date": "2026-06-22"
+      },
+      {
+        "id": "rev-135-2",
+        "user": "Steve J.",
+        "rating": 5,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-26"
+      }
+    ]
+  },
+  {
+    "id": "prod-136",
+    "name": "Spectre Ultra Studio Monitor",
+    "price": 342.56,
+    "description": "The Spectre Ultra Studio Monitor is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "audio",
+    "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.6,
+    "reviewsCount": 15,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "AC Powered",
+      "Drivers": "Planar Magnetic",
+      "Bluetooth": "Bluetooth 5.2",
+      "Weight": "250g",
+      "Water Resistance": "IP68 Dustproof"
+    },
+    "reviews": [
+      {
+        "id": "rev-136-1",
+        "user": "Claude S.",
+        "rating": 5,
+        "comment": "Solid entry-level device. Offers everything you need at a budget-friendly price.",
+        "date": "2026-06-22"
+      },
+      {
+        "id": "rev-136-2",
+        "user": "Richard S.",
+        "rating": 4,
+        "comment": "Decent performance but setup was slightly complicated. Still highly recommend.",
+        "date": "2026-06-12"
+      }
+    ]
+  },
+  {
+    "id": "prod-137",
+    "name": "Krypton Pro Subwoofer",
+    "price": 217.84,
+    "description": "The Krypton Pro Subwoofer is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "audio",
+    "image": "https://images.unsplash.com/photo-1487215078519-e21cc028cb29?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.3,
+    "reviewsCount": 166,
+    "inStock": true,
+    "featured": true,
+    "specs": {
+      "Battery Life": "Up to 40 Hours",
+      "Drivers": "Planar Magnetic",
+      "Bluetooth": "Bluetooth 5.3",
+      "Weight": "6.1g per earbud",
+      "Water Resistance": "None"
+    },
+    "reviews": [
+      {
+        "id": "rev-137-1",
+        "user": "Grace H.",
+        "rating": 4,
+        "comment": "Absolute game changer! Extremely high build quality and sleek packaging.",
+        "date": "2026-06-25"
+      }
+    ]
+  },
+  {
+    "id": "prod-138",
+    "name": "Vortex Pro Wrist Rest",
+    "price": 316.69,
+    "description": "The Vortex Pro Wrist Rest is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.4,
+    "reviewsCount": 189,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Connectivity": "USB-C 90W Pass-through",
+      "Weight": "350g",
+      "Interface": "Bluetooth Multi-Device",
+      "Material": "Eco-friendly Bamboo"
+    },
+    "reviews": [
+      {
+        "id": "rev-138-1",
+        "user": "Richard S.",
+        "rating": 5,
+        "comment": "Absolute game changer! Extremely high build quality and sleek packaging.",
+        "date": "2026-06-24"
+      },
+      {
+        "id": "rev-138-2",
+        "user": "Linus T.",
+        "rating": 4,
+        "comment": "Solid entry-level device. Offers everything you need at a budget-friendly price.",
+        "date": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "id": "prod-139",
+    "name": "Vortex Pro Wrist Rest",
+    "price": 532.44,
+    "description": "The Vortex Pro Wrist Rest is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.3,
+    "reviewsCount": 292,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Connectivity": "USB-C 90W Pass-through",
+      "Weight": "120g",
+      "Interface": "Opto-Mechanical",
+      "Material": "Double-shot PBT Plastic"
+    },
+    "reviews": [
+      {
+        "id": "rev-139-1",
+        "user": "Bill G.",
+        "rating": 5,
+        "comment": "Perfect addition to my hardware catalog collection. Seamless REST synchronization.",
+        "date": "2026-06-16"
+      },
+      {
+        "id": "rev-139-2",
+        "user": "Ada L.",
+        "rating": 4,
+        "comment": "Very reliable. I have been using this daily for weeks now with zero issues.",
+        "date": "2026-06-11"
+      }
+    ]
+  },
+  {
+    "id": "prod-140",
+    "name": "Pulse Ultra Voice Hub",
+    "price": 29.14,
+    "description": "The Pulse Ultra Voice Hub is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1557862921-37829c790f19?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.5,
+    "reviewsCount": 197,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Power Source": "AC Wall Adapter",
+      "Connectivity": "Zigbee & Matter Protocol",
+      "Compatibility": "Matter Certified Hubs",
+      "Weight": "1.1kg"
+    },
+    "reviews": [
+      {
+        "id": "rev-140-1",
+        "user": "Dennis R.",
+        "rating": 4,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-09"
+      },
+      {
+        "id": "rev-140-2",
+        "user": "Dennis R.",
+        "rating": 4,
+        "comment": "A bit smaller than expected, but features are outstanding.",
+        "date": "2026-06-18"
+      }
+    ]
+  },
+  {
+    "id": "prod-141",
+    "name": "Luna Lite Wrist Rest",
+    "price": 540.1,
+    "description": "The Luna Lite Wrist Rest is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.4,
+    "reviewsCount": 205,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Weight": "720g",
+      "Interface": "Hot-swappable MX Switches",
+      "Material": "Eco-friendly Bamboo"
+    },
+    "reviews": [
+      {
+        "id": "rev-141-1",
+        "user": "Alan T.",
+        "rating": 4,
+        "comment": "Excellent response times and integration with my other developer setups.",
+        "date": "2026-06-24"
+      },
+      {
+        "id": "rev-141-2",
+        "user": "Ada L.",
+        "rating": 5,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-19"
+      }
+    ]
+  },
+  {
+    "id": "prod-142",
+    "name": "Pulse Pro Body Sensor",
+    "price": 92.89,
+    "description": "The Pulse Pro Body Sensor is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.9,
+    "reviewsCount": 247,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 24 Hours",
+      "Display": "1.43\" Always-On AMOLED",
+      "Water Resistance": "5 ATM (50m)",
+      "Sensors": "Heart Rate, Temp, Sleep Tracker",
+      "Material": "Anodized Aluminum"
+    },
+    "reviews": [
+      {
+        "id": "rev-142-1",
+        "user": "Alan T.",
+        "rating": 4,
+        "comment": "A bit smaller than expected, but features are outstanding.",
+        "date": "2026-06-21"
+      }
+    ]
+  },
+  {
+    "id": "prod-143",
+    "name": "Vortex Elite Sleep Band",
+    "price": 205.57,
+    "description": "The Vortex Elite Sleep Band is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.2,
+    "reviewsCount": 206,
+    "inStock": true,
+    "featured": true,
+    "specs": {
+      "Display": "1.43\" Always-On AMOLED",
+      "Water Resistance": "IP68 Waterproof",
+      "Sensors": "Activity tracking only",
+      "Material": "Titanium Alloy"
+    },
+    "reviews": [
+      {
+        "id": "rev-143-1",
+        "user": "Guido R.",
+        "rating": 5,
+        "comment": "Perfect addition to my hardware catalog collection. Seamless REST synchronization.",
+        "date": "2026-06-12"
+      },
+      {
+        "id": "rev-143-2",
+        "user": "Bjarne S.",
+        "rating": 4,
+        "comment": "Very reliable. I have been using this daily for weeks now with zero issues.",
+        "date": "2026-06-15"
+      }
+    ]
+  },
+  {
+    "id": "prod-144",
+    "name": "Krypton Phantom Home Controller",
+    "price": 134.28,
+    "description": "The Krypton Phantom Home Controller is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.9,
+    "reviewsCount": 173,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Compatibility": "Google Home & Alexa",
+      "Power Source": "Rechargeable Lithium Battery",
+      "Connectivity": "Wi-Fi 2.4GHz & 5GHz",
+      "Weight": "450g"
+    },
+    "reviews": [
+      {
+        "id": "rev-144-1",
+        "user": "Dennis R.",
+        "rating": 4,
+        "comment": "Excellent response times and integration with my other developer setups.",
+        "date": "2026-06-09"
+      }
+    ]
+  },
+  {
+    "id": "prod-145",
+    "name": "Apex Active Smart Panel Set",
+    "price": 59.31,
+    "description": "The Apex Active Smart Panel Set is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1557862921-37829c790f19?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.9,
+    "reviewsCount": 202,
+    "inStock": true,
+    "featured": true,
+    "specs": {
+      "Power Source": "USB-C DC input",
+      "Connectivity": "Bluetooth LE",
+      "Compatibility": "Alexa, Google Assistant, Apple HomeKit",
+      "Weight": "1.1kg"
+    },
+    "reviews": [
+      {
+        "id": "rev-145-1",
+        "user": "Alan T.",
+        "rating": 4,
+        "comment": "Absolute game changer! Extremely high build quality and sleek packaging.",
+        "date": "2026-06-09"
+      }
+    ]
+  },
+  {
+    "id": "prod-146",
+    "name": "Titan Signature Laptop Dock",
+    "price": 530.25,
+    "description": "The Titan Signature Laptop Dock is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.7,
+    "reviewsCount": 41,
+    "inStock": true,
+    "featured": true,
+    "specs": {
+      "Connectivity": "Dual HDMI & DisplayPort",
+      "Weight": "720g",
+      "Interface": "Opto-Mechanical",
+      "Material": "CNC Machined Aluminum"
+    },
+    "reviews": [
+      {
+        "id": "rev-146-1",
+        "user": "Bjarne S.",
+        "rating": 4,
+        "comment": "Solid entry-level device. Offers everything you need at a budget-friendly price.",
+        "date": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "id": "prod-147",
+    "name": "Nova Active Fitness Tracker",
+    "price": 207.04,
+    "description": "The Nova Active Fitness Tracker is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.3,
+    "reviewsCount": 71,
+    "inStock": true,
+    "featured": true,
+    "specs": {
+      "Battery Life": "Up to 10 Days",
+      "Display": "1.28\" OLED",
+      "Water Resistance": "5 ATM (50m)",
+      "Sensors": "ECG, Blood Oxygen, Accelerometer, Gyroscope"
+    },
+    "reviews": [
+      {
+        "id": "rev-147-1",
+        "user": "Alan T.",
+        "rating": 5,
+        "comment": "Solid entry-level device. Offers everything you need at a budget-friendly price.",
+        "date": "2026-06-10"
+      }
+    ]
+  },
+  {
+    "id": "prod-148",
+    "name": "Vortex Elite Sport Bracelet",
+    "price": 148.38,
+    "description": "The Vortex Elite Sport Bracelet is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.2,
+    "reviewsCount": 212,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Display": "1.43\" Always-On AMOLED",
+      "Water Resistance": "3 ATM",
+      "Sensors": "Heart Rate, SpO2, Accelerometer"
+    },
+    "reviews": [
+      {
+        "id": "rev-148-1",
+        "user": "Bjarne S.",
+        "rating": 5,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "id": "prod-149",
+    "name": "Spectre Premium Voice Hub",
+    "price": 218.52,
+    "description": "The Spectre Premium Voice Hub is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.7,
+    "reviewsCount": 134,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Power Source": "USB-C DC input",
+      "Connectivity": "Bluetooth LE",
+      "Compatibility": "Matter Certified Hubs",
+      "Weight": "220g"
+    },
+    "reviews": [
+      {
+        "id": "rev-149-1",
+        "user": "Claude S.",
+        "rating": 4,
+        "comment": "Decent performance but setup was slightly complicated. Still highly recommend.",
+        "date": "2026-06-27"
+      }
+    ]
+  },
+  {
+    "id": "prod-150",
+    "name": "Titan Studio Health Ring",
+    "price": 106.58,
+    "description": "The Titan Studio Health Ring is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.2,
+    "reviewsCount": 83,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 24 Hours",
+      "Display": "0.96\" Color LCD",
+      "Water Resistance": "3 ATM",
+      "Sensors": "Heart Rate, SpO2, Accelerometer",
+      "Material": "Titanium Alloy"
+    },
+    "reviews": [
+      {
+        "id": "rev-150-1",
+        "user": "Donald K.",
+        "rating": 4,
+        "comment": "Absolute game changer! Extremely high build quality and sleek packaging.",
+        "date": "2026-06-18"
+      },
+      {
+        "id": "rev-150-2",
+        "user": "Margaret H.",
+        "rating": 5,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-05"
+      }
+    ]
+  },
+  {
+    "id": "prod-151",
+    "name": "Aero Carbon Home Controller",
+    "price": 105.84,
+    "description": "The Aero Carbon Home Controller is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1565814636199-ae8133055c1c?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.6,
+    "reviewsCount": 251,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Connectivity": "Bluetooth LE",
+      "Compatibility": "Google Home & Alexa",
+      "Weight": "220g"
+    },
+    "reviews": [
+      {
+        "id": "rev-151-1",
+        "user": "Donald K.",
+        "rating": 4,
+        "comment": "Decent performance but setup was slightly complicated. Still highly recommend.",
+        "date": "2026-06-09"
+      }
+    ]
+  },
+  {
+    "id": "prod-152",
+    "name": "Echo Signature Voice Hub",
+    "price": 162.62,
+    "description": "The Echo Signature Voice Hub is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "smart-home",
+    "image": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.5,
+    "reviewsCount": 105,
+    "inStock": true,
+    "featured": true,
+    "specs": {
+      "Power Source": "Hardwired 12V",
+      "Connectivity": "Zigbee & Matter Protocol"
+    },
+    "reviews": [
+      {
+        "id": "rev-152-1",
+        "user": "Steve J.",
+        "rating": 4,
+        "comment": "A bit smaller than expected, but features are outstanding.",
+        "date": "2026-06-08"
+      },
+      {
+        "id": "rev-152-2",
+        "user": "Margaret H.",
+        "rating": 4,
+        "comment": "Excellent response times and integration with my other developer setups.",
+        "date": "2026-06-23"
+      }
+    ]
+  },
+  {
+    "id": "prod-153",
+    "name": "Apex Max Ambient Speaker",
+    "price": 222.92,
+    "description": "The Apex Max Ambient Speaker is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "audio",
+    "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.1,
+    "reviewsCount": 237,
+    "inStock": true,
+    "featured": true,
+    "specs": {
+      "Battery Life": "8 Hours (32 w/ Case)",
+      "Drivers": "50mm Beryllium",
+      "Weight": "1.5kg",
+      "Water Resistance": "IP68 Dustproof"
+    },
+    "reviews": [
+      {
+        "id": "rev-153-1",
+        "user": "Linus T.",
+        "rating": 5,
+        "comment": "Very reliable. I have been using this daily for weeks now with zero issues.",
+        "date": "2026-06-09"
+      },
+      {
+        "id": "rev-153-2",
+        "user": "Claude S.",
+        "rating": 5,
+        "comment": "Excellent response times and integration with my other developer setups.",
+        "date": "2026-06-19"
+      }
+    ]
+  },
+  {
+    "id": "prod-154",
+    "name": "Zenith Ultra Desk Lamp",
+    "price": 383.91,
+    "description": "The Zenith Ultra Desk Lamp is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "workspace",
+    "image": "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.7,
+    "reviewsCount": 56,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Connectivity": "Dual HDMI & DisplayPort",
+      "Weight": "4.2kg",
+      "Interface": "Bluetooth Multi-Device"
+    },
+    "reviews": [
+      {
+        "id": "rev-154-1",
+        "user": "Donald K.",
+        "rating": 4,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-17"
+      },
+      {
+        "id": "rev-154-2",
+        "user": "Bjarne S.",
+        "rating": 5,
+        "comment": "A bit smaller than expected, but features are outstanding.",
+        "date": "2026-06-05"
+      }
+    ]
+  },
+  {
+    "id": "prod-155",
+    "name": "Krypton Phantom Fitness Tracker",
+    "price": 68.47,
+    "description": "The Krypton Phantom Fitness Tracker is engineered using top-grade elements specifically optimized for high durability, reliable telemetry, and peak performance. Features high-speed connectivity interfaces and integrates cleanly into existing environments.",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.7,
+    "reviewsCount": 174,
+    "inStock": true,
+    "featured": false,
+    "specs": {
+      "Battery Life": "Up to 24 Hours",
+      "Display": "0.96\" Color LCD",
+      "Water Resistance": "5 ATM (50m)",
+      "Sensors": "Heart Rate, SpO2, Accelerometer"
+    },
+    "reviews": [
+      {
+        "id": "rev-155-1",
+        "user": "Ada L.",
+        "rating": 4,
+        "comment": "Build materials feel incredibly premium. Aesthetically pleasing on my desk.",
+        "date": "2026-06-09"
+      },
+      {
+        "id": "rev-155-2",
+        "user": "Margaret H.",
+        "rating": 4,
+        "comment": "Exceeded all my expectations. Pricey, but definitely worth every penny.",
+        "date": "2026-06-25"
+      }
+    ]
+  }
+]
