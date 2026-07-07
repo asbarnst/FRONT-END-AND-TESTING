@@ -4736,5 +4736,22 @@
         "date": "2026-06-25"
       }
     ]
+  },
+  {
+    "id": "prod-1783341987970",
+    "name": "kawasiki ninja h2r",
+    "price": 10000,
+    "description": "very power full bike in the city",
+    "category": "workspace",
+    "image": "https://i.pinimg.com/736x/71/97/1f/71971f2d69f47d0bd91e2b852c2bf3eb.jpg",
+    "rating": 5,
+    "reviewsCount": 0,
+    "inStock": true,
+    "featured": true,
+    "specs": {
+      "Weight": "450",
+      "Connectivity": "fast"
+    },
+    "reviews": []
   }
 ]

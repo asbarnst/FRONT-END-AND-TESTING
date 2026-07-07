@@ -1,0 +1,279 @@
+.auth-shell {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  background: linear-gradient(135deg, #eef2ff 0%, #f8fafc 100%);
+}
+
+.auth-card {
+  width: min(100%, 1100px);
+  display: grid;
+  grid-template-columns: 1.1fr 0.9fr;
+  border-radius: 24px;
+  overflow: hidden;
+  box-shadow: 0 24px 60px rgba(15, 23, 42, 0.16);
+  background: #fff;
+}
+
+.auth-copy {
+  padding: 40px;
+  background: linear-gradient(135deg, #1d4ed8 0%, #2563eb 100%);
+  color: #fff;
+}
+
+.auth-copy h1 {
+  margin: 8px 0 12px;
+  font-size: 2rem;
+}
+
+.auth-copy p {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.auth-copy ul {
+  margin: 20px 0 0;
+  padding-left: 20px;
+  display: grid;
+  gap: 10px;
+}
+
+.auth-form {
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.auth-form h2 {
+  margin: 0 0 4px;
+}
+
+.auth-form input {
+  padding: 12px 14px;
+  border: 1px solid #dbe3f0;
+  border-radius: 12px;
+  font-size: 1rem;
+}
+
+.primary-btn,
+.ghost-btn,
+.link-btn {
+  border: none;
+  cursor: pointer;
+  font-size: 0.95rem;
+}
+
+.primary-btn {
+  padding: 12px 16px;
+  background: #2563eb;
+  color: #fff;
+  border-radius: 999px;
+  font-weight: 600;
+}
+
+.primary-btn.small {
+  padding: 10px 14px;
+  font-size: 0.9rem;
+}
+
+.ghost-btn {
+  padding: 10px 14px;
+  background: #eef2ff;
+  color: #1d4ed8;
+  border-radius: 999px;
+  font-weight: 600;
+}
+
+.link-btn {
+  background: none;
+  color: #2563eb;
+  padding: 0;
+  font-weight: 600;
+}
+
+.toggle-text {
+  margin-top: 8px;
+  font-size: 0.95rem;
+}
+
+.dashboard-shell {
+  min-height: 100vh;
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+  background: #f4f7ff;
+}
+
+.sidebar {
+  width: 260px;
+  background: linear-gradient(180deg, #111827 0%, #1f2937 100%);
+  color: #fff;
+  border-radius: 24px;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.sidebar h3 {
+  margin: 6px 0 18px;
+  font-size: 1.3rem;
+}
+
+.nav-links {
+  display: grid;
+  gap: 8px;
+}
+
+.nav-links a {
+  color: #dbeafe;
+  text-decoration: none;
+  padding: 10px 12px;
+  border-radius: 10px;
+}
+
+.nav-links a:hover {
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.sidebar-card {
+  background: rgba(255, 255, 255, 0.12);
+  padding: 16px;
+  border-radius: 16px;
+}
+
+.dashboard-main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.topbar,
+.hero-panel,
+.table-card,
+.stat-card {
+  background: #fff;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.07);
+}
+
+.topbar {
+  padding: 20px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.hero-panel {
+  padding: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
+}
+
+.hero-panel h3 {
+  margin: 6px 0 8px;
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.stat-card {
+  padding: 18px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.stat-card span {
+  color: #64748b;
+}
+
+.stat-card strong {
+  font-size: 1.35rem;
+  color: #0f172a;
+}
+
+.table-card {
+  padding: 20px 24px;
+}
+
+.table-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 12px 8px;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+th {
+  color: #64748b;
+  font-weight: 600;
+}
+
+.eyebrow {
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.24em;
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: #64748b;
+}
+
+.sidebar .eyebrow {
+  color: #93c5fd;
+}
+
+@media (max-width: 900px) {
+  .auth-card {
+    grid-template-columns: 1fr;
+  }
+
+  .dashboard-shell {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+  }
+
+  .stats-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 600px) {
+  .hero-panel,
+  .topbar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .stats-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .auth-copy,
+  .auth-form {
+    padding: 24px;
+  }
+}

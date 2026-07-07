@@ -33,7 +33,6 @@ function ToastNotificationOutlet() {
   );
 }
 
-// Protected route — redirects to /login if not authenticated
 function ProtectedRoute({ children }) {
   const { user } = useCatalog();
   if (!user) {
