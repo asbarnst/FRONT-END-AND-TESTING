@@ -1,0 +1,370 @@
+{
+  "employees": [
+    {
+      "id": 7,
+      "name": "Bala",
+      "role": "Software Engineer",
+      "department": "Engineering",
+      "status": "Active",
+      "email": "bala@company.com",
+      "username": "bala",
+      "joiningDate": "2024-01-10",
+      "password": "bala123",
+      "empId": "EMP-0007",
+      "salary": 140000
+    },
+    {
+      "id": 8,
+      "name": "Asbar",
+      "role": "UI Designer",
+      "department": "Design",
+      "status": "Active",
+      "email": "asbar@company.com",
+      "username": "asbar",
+      "joiningDate": "2024-02-15",
+      "password": "asbar123",
+      "empId": "EMP-0008",
+      "salary": 93000
+    },
+    {
+      "id": 9,
+      "name": "Nithis",
+      "role": "Data Analyst",
+      "department": "Analytics",
+      "status": "Active",
+      "email": "nithis@company.com",
+      "username": "nithis",
+      "joiningDate": "2024-03-20",
+      "password": "nithis123",
+      "empId": "EMP-0009",
+      "salary": 101000
+    },
+    {
+      "id": 10,
+      "name": "Kamalesh",
+      "role": "HR Specialist",
+      "department": "People",
+      "status": "Active",
+      "email": "kamalesh@company.com",
+      "username": "kamalesh",
+      "joiningDate": "2024-04-05",
+      "password": "kamalesh123",
+      "empId": "EMP-0010",
+      "salary": 64000
+    },
+    {
+      "id": 11,
+      "empId": "EMP-0011",
+      "name": "kowsik",
+      "role": "software testing",
+      "department": "it",
+      "status": "Active",
+      "email": "kowsik@company.com",
+      "username": "kowsik",
+      "password": "kowsik123",
+      "joiningDate": "2026-07-09",
+      "salary": 200000
+    },
+    {
+      "id": 12,
+      "empId": "EMP-0012",
+      "name": "tony",
+      "role": "ai",
+      "department": "ece",
+      "status": "Active",
+      "email": "tony@company.com",
+      "username": "tony",
+      "password": "tony123",
+      "joiningDate": "2026-07-09",
+      "salary": 200000
+    },
+    {
+      "id": 13,
+      "empId": "EMP-0013",
+      "name": "Shabana arshee.M",
+      "role": "architecture",
+      "department": "architect",
+      "status": "Active",
+      "email": "shabana.arshee.m@company.com",
+      "username": "shabana.arshee.m",
+      "password": "shabanaarshee.m123",
+      "joiningDate": "2026-07-10",
+      "salary": 1000000
+    }
+  ],
+  "attendance": {
+    "7": {
+      "2026-07-09": {
+        "status": "Present",
+        "note": "Auto-recorded"
+      }
+    },
+    "8": {
+      "2026-07-09": {
+        "status": "Present",
+        "note": "Auto-recorded"
+      }
+    },
+    "9": {
+      "2026-07-09": {
+        "status": "Absent",
+        "note": ""
+      }
+    },
+    "10": {
+      "2026-07-09": {
+        "status": "Present",
+        "note": "Auto-recorded"
+      }
+    },
+    "11": {},
+    "12": {},
+    "13": {}
+  },
+  "schedule": [
+    {
+      "id": 1,
+      "title": "Weekly Team Sync",
+      "when": "Mon 10:00 AM",
+      "icon": "🤝"
+    },
+    {
+      "id": 2,
+      "title": "Performance Review",
+      "when": "Wed 2:00 PM",
+      "icon": "📊"
+    },
+    {
+      "id": 3,
+      "title": "Training Session",
+      "when": "Fri 11:00 AM",
+      "icon": "🎓"
+    }
+  ],
+  "salaryRecords": [
+    {
+      "empId": "EMP-0007",
+      "month": 4,
+      "year": 2026,
+      "amount": 140000,
+      "status": "Paid",
+      "paidOn": "2026-04-03"
+    },
+    {
+      "empId": "EMP-0008",
+      "month": 4,
+      "year": 2026,
+      "amount": 93000,
+      "status": "Paid",
+      "paidOn": "2026-04-03"
+    },
+    {
+      "empId": "EMP-0009",
+      "month": 4,
+      "year": 2026,
+      "amount": 101000,
+      "status": "Paid",
+      "paidOn": "2026-04-03"
+    },
+    {
+      "empId": "EMP-0010",
+      "month": 4,
+      "year": 2026,
+      "amount": 64000,
+      "status": "Paid",
+      "paidOn": "2026-04-03"
+    },
+    {
+      "empId": "EMP-0007",
+      "month": 5,
+      "year": 2026,
+      "amount": 140000,
+      "status": "Paid",
+      "paidOn": "2026-05-03"
+    },
+    {
+      "empId": "EMP-0008",
+      "month": 5,
+      "year": 2026,
+      "amount": 93000,
+      "status": "Paid",
+      "paidOn": "2026-05-03"
+    },
+    {
+      "empId": "EMP-0009",
+      "month": 5,
+      "year": 2026,
+      "amount": 101000,
+      "status": "Paid",
+      "paidOn": "2026-05-03"
+    },
+    {
+      "empId": "EMP-0010",
+      "month": 5,
+      "year": 2026,
+      "amount": 64000,
+      "status": "Paid",
+      "paidOn": "2026-05-03"
+    },
+    {
+      "empId": "EMP-0007",
+      "month": 6,
+      "year": 2026,
+      "amount": 140000,
+      "status": "Paid",
+      "paidOn": "2026-06-03"
+    },
+    {
+      "empId": "EMP-0008",
+      "month": 6,
+      "year": 2026,
+      "amount": 93000,
+      "status": "Paid",
+      "paidOn": "2026-06-03"
+    },
+    {
+      "empId": "EMP-0009",
+      "month": 6,
+      "year": 2026,
+      "amount": 101000,
+      "status": "Paid",
+      "paidOn": "2026-06-03"
+    },
+    {
+      "empId": "EMP-0010",
+      "month": 6,
+      "year": 2026,
+      "amount": 64000,
+      "status": "Paid",
+      "paidOn": "2026-06-03"
+    },
+    {
+      "empId": "EMP-0007",
+      "month": 7,
+      "year": 2026,
+      "amount": 140000,
+      "status": "Paid",
+      "paidOn": "2026-07-03"
+    },
+    {
+      "empId": "EMP-0008",
+      "month": 7,
+      "year": 2026,
+      "amount": 93000,
+      "status": "Paid",
+      "paidOn": "2026-07-03"
+    },
+    {
+      "empId": "EMP-0009",
+      "month": 7,
+      "year": 2026,
+      "amount": 101000,
+      "status": "Paid",
+      "paidOn": "2026-07-03"
+    },
+    {
+      "empId": "EMP-0010",
+      "month": 7,
+      "year": 2026,
+      "amount": 64000,
+      "status": "Paid",
+      "paidOn": "2026-07-03"
+    },
+    {
+      "empId": "EMP-0011",
+      "month": 4,
+      "year": 2026,
+      "amount": 200000,
+      "status": "Paid",
+      "paidOn": "2026-04-03"
+    },
+    {
+      "empId": "EMP-0011",
+      "month": 5,
+      "year": 2026,
+      "amount": 200000,
+      "status": "Paid",
+      "paidOn": "2026-05-03"
+    },
+    {
+      "empId": "EMP-0011",
+      "month": 6,
+      "year": 2026,
+      "amount": 200000,
+      "status": "Paid",
+      "paidOn": "2026-06-03"
+    },
+    {
+      "empId": "EMP-0011",
+      "month": 7,
+      "year": 2026,
+      "amount": 200000,
+      "status": "Paid",
+      "paidOn": "2026-07-03"
+    },
+    {
+      "empId": "EMP-0012",
+      "month": 4,
+      "year": 2026,
+      "amount": 200000,
+      "status": "Paid",
+      "paidOn": "2026-04-03"
+    },
+    {
+      "empId": "EMP-0012",
+      "month": 5,
+      "year": 2026,
+      "amount": 200000,
+      "status": "Paid",
+      "paidOn": "2026-05-03"
+    },
+    {
+      "empId": "EMP-0012",
+      "month": 6,
+      "year": 2026,
+      "amount": 200000,
+      "status": "Paid",
+      "paidOn": "2026-06-03"
+    },
+    {
+      "empId": "EMP-0012",
+      "month": 7,
+      "year": 2026,
+      "amount": 200000,
+      "status": "Paid",
+      "paidOn": "2026-07-03"
+    },
+    {
+      "empId": "EMP-0013",
+      "month": 4,
+      "year": 2026,
+      "amount": 1000000,
+      "status": "Paid",
+      "paidOn": "2026-04-03"
+    },
+    {
+      "empId": "EMP-0013",
+      "month": 5,
+      "year": 2026,
+      "amount": 1000000,
+      "status": "Paid",
+      "paidOn": "2026-05-03"
+    },
+    {
+      "empId": "EMP-0013",
+      "month": 6,
+      "year": 2026,
+      "amount": 1000000,
+      "status": "Paid",
+      "paidOn": "2026-06-03"
+    },
+    {
+      "empId": "EMP-0013",
+      "month": 7,
+      "year": 2026,
+      "amount": 1000000,
+      "status": "Paid",
+      "paidOn": "2026-07-03"
+    }
+  ]
+}

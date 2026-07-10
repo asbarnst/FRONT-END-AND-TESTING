@@ -4753,5 +4753,19 @@
       "Connectivity": "fast"
     },
     "reviews": []
+  },
+  {
+    "id": "prod-1783579638581",
+    "name": "snakes",
+    "price": 99,
+    "description": "healthy",
+    "category": "smart-home",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5CkINx8d0sHCUOJLaqQCWGFCFHGkN_QOPoHPyZ3pCWzp5NAK1bX3i8AU&s=10",
+    "rating": 5,
+    "reviewsCount": 0,
+    "inStock": true,
+    "featured": false,
+    "specs": {},
+    "reviews": []
   }
 ]
